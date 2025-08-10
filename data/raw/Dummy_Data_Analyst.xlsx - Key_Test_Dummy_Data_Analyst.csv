@@ -1,0 +1,1000 @@
+No Invoice,Platform,Tanggal,Pelanggan,No Telp,Kecamatan,QTY,Amount,Nama Toko
+INV-000000026,Shopee,2/2/22 0:00,H***M,0**********5,Cilincing,1,"365,000",Frags & Co.
+INV-000000027,Shopee,2/2/22 0:00,M******D A***I,6**********6,Sumur Bandung,3,"325,000",Frags & Co.
+INV-000000028,Shopee,2/2/22 0:00,A***D N****L I****I,6***********5,Sooko,3,"365,000",Frags & Co.
+INV-000000029,Shopee,2/2/22 0:00,M******D S*****N B****L I****N,6***********2,Jatinegara,2,"145,000",Frags & Co.
+INV-000000030,Shopee,2/2/22 0:00,A****I P******O,0**********3,Majenang,2,"195,000",Frags & Co.
+INV-000000030,Shopee,2/2/22 0:00,A****I P******O,0**********3,Majenang,1,"195,000",Frags & Co.
+INV-000000031,Shopee,2/2/22 0:00,M**A ******E A******C K*****,6***********6,Mampang Prapatan,2,"325,000",Frags & Co.
+INV-000000032,Shopee,2/2/22 0:00,A***A S*****N S,0**********9,Kraksaan,4,"325,000",Frags & Co.
+INV-000000033,Shopee,2/2/22 0:00,M******D A**Y S******N,6***********9,Baki,1,"325,000",Frags & Co.
+INV-000000034,Shopee,2/2/22 0:00,I***M,6***********3,Tarogong Kidul,2,"195,000",Frags & Co.
+INV-000000035,Shopee,2/2/22 0:00,I***N N*****I,6***********1,Ketanggungan,1,"275,000",Frags & Co.
+INV-000000036,Shopee,1/31/22 0:00,D**N,6***********9,Baros,3,"365,000",Frags & Co.
+INV-000000037,Shopee,2/2/22 0:00,D**A A***A,6**********0,Cimanggis,2,"275,000",Frags & Co.
+INV-000000038,Shopee,2/2/22 0:00,A***D S*****T,6***********0,Giri,4,"275,000",Frags & Co.
+INV-000000039,Shopee,2/2/22 0:00,I G**E B**U A******A,6***********4,Denpasar Selatan,2,"195,000",Frags & Co.
+INV-000000040,Shopee,2/2/22 0:00,EKO OUM,6***********6,Menteng,1,"275,000",Frags & Co.
+INV-000000041,Shopee,2/2/22 0:00,F****L,6***********5,Bintan Utara,1,"145,000",Frags & Co.
+INV-000000042,Shopee,2/2/22 0:00,Y***I A********I  I*U T**I,6***********0,Bojongloa Kidul,2,"325,000",Frags & Co.
+INV-000000043,Shopee,2/2/22 0:00,B***S R******I,6***********7,Kebayoran Baru,4,"145,000",Frags & Co.
+INV-000000044,Shopee,2/2/22 0:00,M*****A M*****G,0*********4,Bekasi Selatan,4,"365,000",Frags & Co.
+INV-000000045,Shopee,2/2/22 0:00,R**N S******N,6***********1,Cibeunying Kidul,4,"325,000",Frags & Co.
+INV-000000046,Shopee,2/2/22 0:00,S**I F*****H,6***********4,Banjar Baru Selatan,1,"275,000",Frags & Co.
+INV-000000047,Shopee,2/2/22 0:00,R**N L****N F*****A ,6***********9,Koto Tangah,2,"365,000",Frags & Co.
+INV-000000048,Shopee,2/2/22 0:00,R********H Z***N,6***********7,Pelaihari,3,"325,000",Frags & Co.
+INV-000000049,Shopee,2/2/22 0:00,I*U A*E H***A,0**********1,Ilir Barat I,1,"275,000",Frags & Co.
+INV-000000049,Shopee,2/2/22 0:00,I*U A*E H***A,0**********1,Ilir Barat I,4,"145,000",Frags & Co.
+INV-000000050,Shopee,2/2/22 0:00,M******D K*****A,6***********5,Cikarang Selatan,2,"325,000",Frags & Co.
+INV-000000051,Shopee,2/2/22 0:00,L****F P*,6***********0,Plaju,4,"275,000",Frags & Co.
+INV-000000052,Shopee,2/2/22 0:00,M************N,6***********6,Pekalongan Selatan,3,"145,000",Frags & Co.
+INV-000000053,Shopee,2/2/22 0:00,R***A,6***********7,Kolaka,4,"365,000",Frags & Co.
+INV-000000054,Shopee,2/2/22 0:00,E*A,0*********0,Pontianak Kota,4,"365,000",Frags & Co.
+INV-000000055,Shopee,2/2/22 0:00,H*****O P***I,6***********7,Gunung Sindur,3,"365,000",Frags & Co.
+INV-000000056,Shopee,2/2/22 0:00,D***A,6***********7,Kebomas,2,"365,000",Frags & Co.
+INV-000000057,Shopee,2/2/22 0:00,M*****D I*N A******A,6***********3,Bogor Timur,1,"195,000",Frags & Co.
+INV-000000058,Shopee,2/2/22 0:00,I****T K********I,6***********7,Cengkareng,2,"325,000",Frags & Co.
+INV-000000059,Shopee,2/2/22 0:00,R*Y P***A,6***********6,Lembang,3,"325,000",Frags & Co.
+INV-000000060,Shopee,2/2/22 0:00,I******R,6***********4,Laguboti,4,"195,000",Frags & Co.
+INV-000000061,Shopee,1/2/22 0:00,A**S M******R P******A,6***********9,Cimahi Tengah,2,"275,000",Frags & Co.
+INV-000000062,Shopee,2/2/22 0:00,F***I K*****I,0**********5,Sungai Raya Kepulauan,1,"275,000",Frags & Co.
+INV-000000063,Shopee,2/2/22 0:00,T***N H*******I,6***********2,Pancoran Mas,3,"365,000",Frags & Co.
+INV-000000064,Shopee,1/2/22 0:00,D**A D**I,6***********6,Bogor Selatan,2,"145,000",Frags & Co.
+INV-000000065,Shopee,1/2/22 0:00,M******D A***R M*****A,6***********0,Kotagede,1,"275,000",Frags & Co.
+INV-000000066,Shopee,1/2/22 0:00,ILYAS FADHILAH,85921308473,Ciledug,3,"145,000",Frags & Co.
+INV-000000067,Shopee,1/2/22 0:00,A***F W**A S******R,6***********5,Jombang,1,"325,000",Frags & Co.
+INV-000000068,Shopee,1/2/22 0:00,R***Y D**A *****,0*********0,Karang Tengah,3,"145,000",Frags & Co.
+INV-000000069,Shopee,1/2/22 0:00,A*****H N*R,6***********4,Dumai Barat,1,"365,000",Frags & Co.
+INV-000000070,Shopee,1/2/22 0:00,R***U H****I,0**********5,Kaligondang,1,"325,000",Frags & Co.
+INV-000000071,Shopee,1/2/22 0:00,S***A B*A ,6***********3,Cempaka Putih,3,"195,000",Frags & Co.
+INV-000000072,Shopee,1/2/22 0:00,P***R H********N,6***********7,Cipondoh,2,"325,000",Frags & Co.
+INV-000000073,Shopee,1/2/22 0:00,P***O P*******S,6***********9,Babelan,2,"195,000",Frags & Co.
+INV-000000074,Shopee,1/2/22 0:00,J**O P*****O,6***********1,Majalaya,2,"145,000",Frags & Co.
+INV-000000075,Shopee,1/2/22 0:00,D***I N*R F****N,0**********0,Bandung Kidul,1,"365,000",Frags & Co.
+INV-000000075,Shopee,1/2/22 0:00,D***I N*R F****N,0**********0,Bandung Kidul,3,"275,000",Frags & Co.
+INV-000000076,Shopee,1/2/22 0:00,A*E A***L J***L,6***********3,Kejaksan,4,"325,000",Frags & Co.
+INV-000000077,Shopee,1/2/22 0:00,A***G R*****O,6***********9,Ilir Timur I,1,"145,000",Frags & Co.
+INV-000000078,Shopee,1/2/22 0:00,I**A T*********I,6***********0,Megamendung,2,"195,000",Frags & Co.
+INV-000000079,Shopee,1/2/22 0:00,Z***Y M******D G*****Y,6***********6,Bogor Utara,1,"145,000",Frags & Co.
+INV-000000080,Shopee,1/2/22 0:00,A*******R L******O R*****A,6***********7,Oebobo,3,"275,000",Frags & Co.
+INV-000000080,Shopee,1/2/22 0:00,A*******R L******O R*****A,6***********7,Oebobo,4,"325,000",Frags & Co.
+INV-000000081,Shopee,1/2/22 0:00,H**Y P*****O,6**********8,Cengkareng,2,"275,000",Frags & Co.
+INV-000000082,Shopee,1/2/22 0:00,Z********N A*I H***********O,6***********7,Tanah Sereal,4,"145,000",Frags & Co.
+INV-000000083,Shopee,1/2/22 0:00,L* V****L R****D A***N,0**********0,Mandonga,4,"145,000",Frags & Co.
+INV-000000084,Shopee,1/2/22 0:00,F*****N R*****T,6***********5,Sukmajaya,2,"275,000",Frags & Co.
+INV-000000084,Shopee,1/2/22 0:00,F*****N R*****T,6***********5,Sukmajaya,3,"275,000",Frags & Co.
+INV-000000085,Shopee,1/2/22 0:00,A**O A******C ,6***********2,Pabean Cantikan,4,"325,000",Frags & Co.
+INV-000000086,Shopee,1/2/22 0:00,I**M I***A,6***********2,Pedurungan,4,"195,000",Frags & Co.
+INV-000000087,Shopee,1/2/22 0:00,O*Y R***I,6***********1,Cipayung,1,"195,000",Frags & Co.
+INV-000000088,Shopee,1/2/22 0:00,M*****D T***Q A*****H,6***********8,Pondok Melati,4,"145,000",Frags & Co.
+INV-000000088,Shopee,1/2/22 0:00,M*****D T***Q A*****H,6***********8,Pondok Melati,1,"365,000",Frags & Co.
+INV-000000089,Shopee,1/2/22 0:00,H U***N,0**********7,Cikancung,2,"275,000",Frags & Co.
+INV-000000090,Shopee,1/2/22 0:00,H R****N,6***********9,Banjarmasin Timur,4,"275,000",Frags & Co.
+INV-000000090,Shopee,1/2/22 0:00,H R****N,6***********9,Banjarmasin Timur,1,"195,000",Frags & Co.
+INV-000000091,Shopee,1/2/22 0:00,S*****N P*****A,6***********1,Tanjung Harapan,3,"325,000",Frags & Co.
+INV-000000092,Shopee,1/2/22 0:00,E*O P******O,6***********0,Pondok Gede,1,"365,000",Frags & Co.
+INV-000000093,Shopee,1/2/22 0:00,A****N T*****N,6***********6,Nibung,2,"325,000",Frags & Co.
+INV-000000094,Shopee,1/2/22 0:00,R**N,6***********7,Blang Pidie,1,"365,000",Frags & Co.
+INV-000000095,Shopee,1/2/22 0:00,L****I,6***********2,Pondok Gede,4,"325,000",Frags & Co.
+INV-000000096,Shopee,1/2/22 0:00,I**O B*Y,6***********0,Tambun Utara,3,"365,000",Frags & Co.
+INV-000000097,Shopee,1/2/22 0:00,A***F N****L I**N,6***********4,Cibitung,1,"145,000",Frags & Co.
+INV-000000097,Shopee,1/2/22 0:00,A***F N****L I**N,6***********4,Cibitung,4,"275,000",Frags & Co.
+INV-000000098,Shopee,1/2/22 0:00,A****W J****R,6***********5,Banyumanik,3,"365,000",Frags & Co.
+INV-000000099,Shopee,1/2/22 0:00,D***A G***H D,0**********0,Sidorejo,4,"325,000",Frags & Co.
+INV-000000100,Shopee,1/2/22 0:00,H***M S***A,6***********7,Sleman,2,"275,000",Frags & Co.
+INV-000000101,Shopee,1/2/22 0:00,A**M L**S L******O,6***********8,Jombang,4,"195,000",Frags & Co.
+INV-000000102,Shopee,1/2/22 0:00,F***D M***I H*****P,6***********5,Ampana Kota,2,"275,000",Frags & Co.
+INV-000000103,Shopee,1/2/22 0:00,F****N,0**********9,Kuningan,2,"275,000",Frags & Co.
+INV-000000103,Shopee,1/2/22 0:00,F****N,0**********9,Kuningan,2,"275,000",Frags & Co.
+INV-000000104,Shopee,1/2/22 0:00,M**A,6***********4,Kebayoran Baru,3,"325,000",Frags & Co.
+INV-000000105,Shopee,1/2/22 0:00,K***A R********A,6***********9,Balikpapan Selatan,4,"145,000",Frags & Co.
+INV-000000106,Shopee,1/2/22 0:00,R***H N***A,6***********1,Jelutung,2,"275,000",Frags & Co.
+INV-000000107,Shopee,1/2/22 0:00,J*Y,6***********3,Muara Bangka Hulu,2,"275,000",Frags & Co.
+INV-000000107,Shopee,1/2/22 0:00,J*Y,6***********3,Muara Bangka Hulu,4,"145,000",Frags & Co.
+INV-000000108,Shopee,1/2/22 0:00,J***T,6***********9,Pondok Gede,4,"275,000",Frags & Co.
+INV-000000109,Shopee,1/2/22 0:00,P***I R*****Y  B***A N***A,0**********7,Limo,2,"145,000",Frags & Co.
+INV-000000110,Shopee,1/2/22 0:00,G*****I,6***********8,Pondok Gede,2,"195,000",Frags & Co.
+INV-000000111,Shopee,1/2/22 0:00,R**A F*****I,0***********1,Pasar Kemis,1,"325,000",Frags & Co.
+INV-000000112,Shopee,1/2/22 0:00,I*U R***N  G*O C***O,6***********1,Sidoarjo,4,"275,000",Frags & Co.
+INV-000000113,Shopee,1/2/22 0:00,S*****F,0**********5,Pabean Cantikan,4,"145,000",Frags & Co.
+INV-000000114,Shopee,1/2/22 0:00,E***N W*******O,6**********3,Gebog,4,"325,000",Frags & Co.
+INV-000000115,Shopee,1/2/22 0:00,A*******O,6***********5,Cibodas,3,"325,000",Frags & Co.
+INV-000000116,Shopee,1/2/22 0:00,A****E H******L T***A,6************1,Medan Selayang,4,"275,000",Frags & Co.
+INV-000000117,Shopee,2/2/22 0:00,I**N W*******O,6***********6,Nguter,4,"145,000",Frags & Co.
+INV-000000118,Shopee,1/2/22 0:00,A**F D******N,6***********8,Dukuh Pakis,3,"325,000",Frags & Co.
+INV-000000119,Shopee,1/2/22 0:00,M******D B**U T*I A***A,6***********4,Baamang,4,"275,000",Frags & Co.
+INV-000000120,Shopee,1/2/22 0:00,G***H,6***********3,Cibitung,2,"325,000",Frags & Co.
+INV-000000121,Shopee,1/2/22 0:00,R***L,0**********7,Beji,1,"325,000",Frags & Co.
+INV-000000122,Shopee,1/2/22 0:00,K***N P***A *****,6***********0,Cibeunying Kidul,3,"195,000",Frags & Co.
+INV-000000123,Shopee,2/2/22 0:00,I***M F***I S*****N,6***********2,Cisarua,4,"145,000",Frags & Co.
+INV-000000124,Shopee,1/2/22 0:00,A****A,6***********1,Rawalumbu,3,"365,000",Frags & Co.
+INV-000000124,Shopee,1/2/22 0:00,A****A,6***********1,Rawalumbu,4,"145,000",Frags & Co.
+INV-000000125,Shopee,1/2/22 0:00,A***E,6***********1,Gajah Mungkur,2,"365,000",Frags & Co.
+INV-000000126,Shopee,1/31/22 0:00,M****R K****I,0**********0,Grogol Petamburan,1,"145,000",Frags & Co.
+INV-000000127,Shopee,1/2/22 0:00,A**O,6***********0,Pamulang,4,"325,000",Frags & Co.
+INV-000000127,Shopee,1/2/22 0:00,A**O,6***********0,Pamulang,4,"275,000",Frags & Co.
+INV-000000128,Shopee,1/31/22 0:00,P***I W****O,0**********1,Sawangan,4,"275,000",Frags & Co.
+INV-000000128,Shopee,1/31/22 0:00,P***I W****O,0**********1,Sawangan,4,"195,000",Frags & Co.
+INV-000000129,Shopee,1/2/22 0:00,H***N A****M,6***********5,Tebet,1,"365,000",Frags & Co.
+INV-000000130,Shopee,1/31/22 0:00,B*Y,0**********3,Jatinegara,1,"365,000",Frags & Co.
+INV-000000131,Shopee,1/2/22 0:00,A****N Y***A P*****A,6***********3,Sako,2,"365,000",Frags & Co.
+INV-000000132,Shopee,1/2/22 0:00,R**I G*****N,6***********5,Grogol Petamburan,1,"325,000",Frags & Co.
+INV-000000133,Shopee,1/31/22 0:00,LIANY INTAN ,6***********3,Cipayung,4,"365,000",Frags & Co.
+INV-000000134,Shopee,1/31/22 0:00,Y***R,0**********2,Medan Denai,2,"275,000",Frags & Co.
+INV-000000135,Shopee,1/31/22 0:00,L***Y I***N ,6***********3,Cipayung,2,"325,000",Frags & Co.
+INV-000000136,Shopee,1/2/22 0:00,W*****I,6***********6,Ngoro,2,"145,000",Frags & Co.
+INV-000000137,Shopee,1/2/22 0:00,D**A S***A P*****A ,6***********4,Cilandak,4,"365,000",Frags & Co.
+INV-000000138,Shopee,1/2/22 0:00,A*I D******N,6***********1,Cilacap Selatan,3,"365,000",Frags & Co.
+INV-000000139,Shopee,1/31/22 0:00,I***M,6***********5,Cileungsi,4,"145,000",Frags & Co.
+INV-000000140,Shopee,1/31/22 0:00,B********I P***A,6***********9,Pondok Melati,1,"365,000",Frags & Co.
+INV-000000141,Shopee,1/2/22 0:00,S****A,6***********6,Seberang Kota,1,"145,000",Frags & Co.
+INV-000000141,Shopee,1/2/22 0:00,S****A,6***********6,Seberang Kota,4,"325,000",Frags & Co.
+INV-000000142,Shopee,1/2/22 0:00,M******D F**********N,6***********2,Tebet,4,"275,000",Frags & Co.
+INV-000000143,Shopee,1/2/22 0:00,R**I S*****O,6***********4,Seberida,2,"145,000",Frags & Co.
+INV-000000144,Shopee,1/31/22 0:00,B***I H******T,6***********8,Cakung,1,"365,000",Frags & Co.
+INV-000000145,Shopee,1/2/22 0:00,G***N G*****N,6***********5,Banjarmasin Timur,1,"145,000",Frags & Co.
+INV-000000146,Shopee,1/2/22 0:00,A**S E*****I E*I S*****O,0**********8,Sidorejo,2,"195,000",Frags & Co.
+INV-000000147,Shopee,1/31/22 0:00,R*****O W****R,6***********8,Tambun Selatan,1,"325,000",Frags & Co.
+INV-000000148,Shopee,1/2/22 0:00,E*O O*M,6***********6,Menteng,2,"145,000",Frags & Co.
+INV-000000149,Shopee,1/2/22 0:00,E***K W****A,6***********5,Kota Baru,2,"325,000",Frags & Co.
+INV-000000150,Shopee,1/2/22 0:00,I*A R********Y,6***********0,Cibodas,1,"275,000",Frags & Co.
+INV-000000151,Shopee,1/31/22 0:00,P**U A*N,6***********4,Abiansemal,2,"365,000",Frags & Co.
+INV-000000152,Shopee,2/2/22 0:00,R***Y F******A,6***********8,Batuceper,2,"325,000",Frags & Co.
+INV-000000153,Shopee,2/2/22 0:00,I*O,6***********5,Tamalate,3,"275,000",Frags & Co.
+INV-000000154,Shopee,2/2/22 0:00,M******D A**B,6***********6,Duren Sawit,4,"325,000",Frags & Co.
+INV-000000155,Shopee,2/2/22 0:00,M*****D I***********A,6***********9,Medan Satria,4,"195,000",Frags & Co.
+INV-000000156,Shopee,2/2/22 0:00,R****A A****A R*****N,6**********3,Tenggarong,1,"365,000",Frags & Co.
+INV-000000157,Shopee,2/2/22 0:00,A******H S***I,6***********8,Tebo Tengah,3,"145,000",Frags & Co.
+INV-000000158,Shopee,2/2/22 0:00,C* S***R T***A ***********,6************1,Rembang,1,"275,000",Frags & Co.
+INV-000000159,Shopee,2/2/22 0:00,M******L A***R,6**********8,Campaka,1,"365,000",Frags & Co.
+INV-000000160,Shopee,3/2/22 0:00,R******O E****I ****,6***********1,Medan Marelan,2,"195,000",Frags & Co.
+INV-000000161,Shopee,3/2/22 0:00,C*******A A****A,6***********9,Dukuh Pakis,4,"365,000",Frags & Co.
+INV-000000162,Shopee,3/2/22 0:00,R***I F*****N,6***********7,Klari,1,"145,000",Frags & Co.
+INV-000000163,Shopee,3/2/22 0:00,H*********A,6***********5,Sungai Pinang,2,"275,000",Frags & Co.
+INV-000000164,Shopee,3/2/22 0:00,P*****G S******K,6**********9,Katibung,4,"365,000",Frags & Co.
+INV-000000164,Shopee,3/2/22 0:00,P*****G S******K,6**********9,Katibung,1,"145,000",Frags & Co.
+INV-000000165,Shopee,3/2/22 0:00,R***I F******H,6***********3,Kelapa Dua,3,"325,000",Frags & Co.
+INV-000000166,Shopee,3/2/22 0:00,A*Y V*****I,6***********2,Cibodas,4,"195,000",Frags & Co.
+INV-000000167,Shopee,3/2/22 0:00,I***L I********H,6***********9,Pasar Minggu,1,"195,000",Frags & Co.
+INV-000000168,Shopee,3/2/22 0:00,S***I A***A **U H* N*****,6***********4,Cicurug,4,"195,000",Frags & Co.
+INV-000000169,Shopee,2/2/22 0:00,A*U M****B,6***********5,Limo,4,"325,000",Frags & Co.
+INV-000000170,Shopee,2/2/22 0:00,D**N A***R,6***********8,Sambikerep,4,"145,000",Frags & Co.
+INV-000000171,Shopee,2/2/22 0:00,B***S,6***********0,Banjarmasin Timur,4,"325,000",Frags & Co.
+INV-000000172,Shopee,2/2/22 0:00,A***A,6***********3,Tampan,4,"195,000",Frags & Co.
+INV-000000173,Shopee,2/2/22 0:00,J****Y S***N A*****O M***U,6***********5,Medan Denai,4,"365,000",Frags & Co.
+INV-000000174,Shopee,2/2/22 0:00,R***Y,0**********5,Koja,1,"275,000",Frags & Co.
+INV-000000175,Shopee,2/2/22 0:00,F*******O R*****A,6**********2,Pamulang,3,"325,000",Frags & Co.
+INV-000000175,Shopee,2/2/22 0:00,F*******O R*****A,6**********2,Pamulang,2,"325,000",Frags & Co.
+INV-000000176,Shopee,2/2/22 0:00,A************,6************8,Pontianak Barat,4,"145,000",Frags & Co.
+INV-000000177,Shopee,2/2/22 0:00,A*Y K*******N,0***********8,Antapani,2,"145,000",Frags & Co.
+INV-000000178,Shopee,2/2/22 0:00,G******E K******M,0**********2,Langowan Timur,1,"325,000",Frags & Co.
+INV-000000178,Shopee,2/2/22 0:00,G******E K******M,0**********2,Langowan Timur,4,"195,000",Frags & Co.
+INV-000000179,Shopee,2/2/22 0:00,R**N,6***********0,Jatiasih,3,"275,000",Frags & Co.
+INV-000000180,Shopee,2/2/22 0:00,F***R A*I W*******O,6**********5,Bekasi Selatan,2,"145,000",Frags & Co.
+INV-000000181,Shopee,2/2/22 0:00,R**A,6**********8,Pontianak Selatan,4,"195,000",Frags & Co.
+INV-000000181,Shopee,2/2/22 0:00,R**A,6**********8,Pontianak Selatan,1,"365,000",Frags & Co.
+INV-000000181,Shopee,2/2/22 0:00,R**A,6**********8,Pontianak Selatan,3,"145,000",Frags & Co.
+INV-000000182,Shopee,2/2/22 0:00,A*****S T****G,6***********6,Medan Tuntungan,2,"195,000",Frags & Co.
+INV-000000183,Shopee,2/2/22 0:00,R***I  S***M B********L,6***********8,Jombang,2,"195,000",Frags & Co.
+INV-000000183,Shopee,2/2/22 0:00,R***I  S***M B********L,6***********8,Jombang,4,"275,000",Frags & Co.
+INV-000000183,Shopee,2/2/22 0:00,R***I  S***M B********L,6***********8,Jombang,3,"275,000",Frags & Co.
+INV-000000183,Shopee,2/2/22 0:00,R***I  S***M B********L,6***********8,Jombang,3,"365,000",Frags & Co.
+INV-000000184,Shopee,2/2/22 0:00,R******N,6***********7,Paguyangan,3,"195,000",Frags & Co.
+INV-000000185,Shopee,2/2/22 0:00,D*********H,6***********5,Tejakula,1,"325,000",Frags & Co.
+INV-000000186,Shopee,2/2/22 0:00,A*O S*****O,6***********7,Serang Baru,1,"365,000",Frags & Co.
+INV-000000187,Shopee,2/2/22 0:00,F***I I****N,6***********5,Asakota,1,"195,000",Frags & Co.
+INV-000000188,Shopee,2/2/22 0:00,D***S R***A F S*****A,6***********6,Ngrampal,4,"195,000",Frags & Co.
+INV-000000189,Shopee,2/2/22 0:00,M***********I,6***********2,Banjarmasin Utara,1,"275,000",Frags & Co.
+INV-000000190,Shopee,3/2/22 0:00,Fikri Hidayat,6282382547870,Selebar,1,"365,000",Frags & Co.
+INV-000000191,Shopee,3/2/22 0:00,Agung,6281383771977,Sudimara,4,"325,000",Frags & Co.
+INV-000000192,Shopee,3/2/22 0:00,Hasyim Akbar,6282225604690,Gemolong Kota,1,"275,000",Frags & Co.
+INV-000000193,Shopee,3/2/22 0:00,Doli Saputra Panggabean,6282289525008,Muara Enim,1,"145,000",Frags & Co.
+INV-000000194,Shopee,7/2/22 0:00,P*k G****d,62********1,Medan Petisah,3,"365,000",Frags & Co.
+INV-000000195,Shopee,3/2/22 0:00,Furgan  ,6287775226333,Ampenan Tengah,3,"275,000",Frags & Co.
+INV-000000196,Shopee,3/2/22 0:00,Reffen  ,6281371006357,Pati,2,"275,000",Frags & Co.
+INV-000000197,Shopee,3/2/22 0:00,Nana  ,6289630228643,Kebon Jeruk,4,"365,000",Frags & Co.
+INV-000000198,Shopee,3/2/22 0:00,Erwin Arios,6283170151313,Panjang,2,"275,000",Frags & Co.
+INV-000000199,Shopee,3/2/22 0:00,Aden Akhmad Arizky Kmmegah Facific,6282326177251,Krembangan,4,"275,000",Frags & Co.
+INV-000000199,Shopee,3/2/22 0:00,Aden Akhmad Arizky Kmmegah Facific,6282326177251,Krembangan,2,"195,000",Frags & Co.
+INV-000000200,Shopee,3/2/22 0:00,Alex ,6282253030321,Telaga Biru,2,"365,000",Frags & Co.
+INV-000000201,Shopee,3/2/22 0:00,Fajar Prima,6281286092589,Kaliabang Tengah,1,"325,000",Frags & Co.
+INV-000000202,Shopee,3/2/22 0:00,Robet,6287820741095,Pamulang,1,"145,000",Frags & Co.
+INV-000000203,Shopee,3/2/22 0:00,Mohammad Havid Al Azar,6282113242264,Cipayung,1,"365,000",Frags & Co.
+INV-000000204,Shopee,3/2/22 0:00,D****d S****n,62**********9,Duren Sawit,3,"275,000",Frags & Co.
+INV-000000205,Shopee,3/2/22 0:00,Gista ,628158855469,Tembalang,3,"365,000",Frags & Co.
+INV-000000205,Shopee,3/2/22 0:00,Gista ,628158855469,Tembalang,3,"195,000",Frags & Co.
+INV-000000205,Shopee,3/2/22 0:00,Gista ,628158855469,Tembalang,1,"365,000",Frags & Co.
+INV-000000206,Shopee,3/2/22 0:00,Hermanto,6285261819115,Sawah Besar,1,"195,000",Frags & Co.
+INV-000000207,Shopee,3/2/22 0:00,Ravi Imam Pratama ,6283177923861,Depok,3,"325,000",Frags & Co.
+INV-000000208,Shopee,3/2/22 0:00,Ibrahim  ,6282245252725,Cipayung,2,"365,000",Frags & Co.
+INV-000000208,Shopee,3/2/22 0:00,Ibrahim  ,6282245252725,Cipayung,2,"365,000",Frags & Co.
+INV-000000209,Shopee,3/2/22 0:00,Adit,6281218190939,Pondok Aren,2,"195,000",Frags & Co.
+INV-000000210,Shopee,2/2/22 0:00,Ahmad,6282121987907,Kalideres,4,"325,000",Frags & Co.
+INV-000000211,Shopee,2/2/22 0:00,Fanz,6281399326239,Kelapa Gading,2,"195,000",Frags & Co.
+INV-000000212,Shopee,3/2/22 0:00,Tommy Susanto,6281332371686,Sambikerep,1,"325,000",Frags & Co.
+INV-000000213,Shopee,3/2/22 0:00,Permadi Himawan Bagus,6281280108020,Kramat Jati,2,"275,000",Frags & Co.
+INV-000000213,Shopee,3/2/22 0:00,Permadi Himawan Bagus,6281280108020,Kramat Jati,3,"145,000",Frags & Co.
+INV-000000214,Shopee,2/2/22 0:00,Aryo Suharnoko,6281296075256,Menteng,3,"145,000",Frags & Co.
+INV-000000214,Shopee,2/2/22 0:00,Aryo Suharnoko,6281296075256,Menteng,1,"325,000",Frags & Co.
+INV-000000215,Shopee,3/2/22 0:00,Andrew Mahardika,6281287672084,Bekasi Selatan,4,"325,000",Frags & Co.
+INV-000000216,Shopee,2/2/22 0:00,Rizal Mursalin,6287715737351,Grogol,2,"325,000",Frags & Co.
+INV-000000217,Shopee,2/2/22 0:00,Aldy Fitzgerald,6287775503111,Ciomas,3,"145,000",Frags & Co.
+INV-000000218,Shopee,2/2/22 0:00,Febrian Fikri Fernando,6282269902329,Sukarame,3,"325,000",Frags & Co.
+INV-000000219,Shopee,2/2/22 0:00,Deded,6282169691099,Tanjung Pinang Kota,1,"145,000",Frags & Co.
+INV-000000220,Shopee,2/2/22 0:00,Muhammad Kemal Fadillah,62**********8,Medan Labuhan,3,"325,000",Frags & Co.
+INV-000000221,Shopee,2/2/22 0:00,Fajar Pane,628121051255,Sawangan,4,"365,000",Frags & Co.
+INV-000000222,Shopee,2/2/22 0:00,Dimas,6282121259599,Cimahi Tengah,1,"325,000",Frags & Co.
+INV-000000223,Shopee,2/2/22 0:00,Muhammad Kemal Fadillah,6281263535908,Medan Labuhan,1,"195,000",Frags & Co.
+INV-000000224,Shopee,2/2/22 0:00,Raditya Dwi Darmawan,6282123473425,Medan Satria,1,"325,000",Frags & Co.
+INV-000000224,Shopee,2/2/22 0:00,Raditya Dwi Darmawan,6282123473425,Medan Satria,1,"275,000",Frags & Co.
+INV-000000225,Shopee,2/2/22 0:00,Dahlan Taher,6287872553433,Jagakarsa,1,"195,000",Frags & Co.
+INV-000000226,Shopee,3/2/22 0:00,T****A Y**I P******O,6***********2,Murung Pudak,3,"195,000",Frags & Co.
+INV-000000227,Shopee,3/2/22 0:00,I**M S*****N,6***********4,Pontianak Barat,4,"145,000",Frags & Co.
+INV-000000228,Shopee,3/2/22 0:00,A**T,6***********1,Tingkir,2,"365,000",Frags & Co.
+INV-000000229,Shopee,3/2/22 0:00,H**I S******N,6***********1,Siman,2,"325,000",Frags & Co.
+INV-000000230,Shopee,3/2/22 0:00,R***I A**F,0**********1,Medan Amplas,3,"145,000",Frags & Co.
+INV-000000231,Shopee,3/2/22 0:00,S********H,0**********0,Bojonegara,3,"365,000",Frags & Co.
+INV-000000232,Shopee,3/2/22 0:00,Mario Dewi,6281330129082,Cempaka Putih,4,"325,000",Frags & Co.
+INV-000000233,Shopee,3/2/22 0:00,Elis,6285714362640,Kelapa Gading,2,"275,000",Frags & Co.
+INV-000000234,Shopee,3/2/22 0:00,Febryan  Ryan ,6281311511137,Cilegon,2,"325,000",Frags & Co.
+INV-000000234,Shopee,3/2/22 0:00,Febryan  Ryan ,6281311511137,Cilegon,2,"195,000",Frags & Co.
+INV-000000235,Shopee,3/2/22 0:00,Sepri Lisanto,6281229511295,Karangmoncol,2,"195,000",Frags & Co.
+INV-000000236,Shopee,3/2/22 0:00,Yoktan Parisa,6282351688587,Tanjung Selor,2,"275,000",Frags & Co.
+INV-000000237,Shopee,3/2/22 0:00,Brilian Manggala,6282132586559,Kebayoran Baru,1,"145,000",Frags & Co.
+INV-000000238,Shopee,3/2/22 0:00,I Made Astrawan,628563732278,Denpasar Barat,3,"365,000",Frags & Co.
+INV-000000238,Shopee,3/2/22 0:00,I Made Astrawan,628563732278,Denpasar Barat,1,"325,000",Frags & Co.
+INV-000000239,Shopee,3/2/22 0:00,Dimas Anggoro,6287775037943,Cikarang Utara,2,"195,000",Frags & Co.
+INV-000000239,Shopee,3/2/22 0:00,Dimas Anggoro,6287775037943,Cikarang Utara,4,"145,000",Frags & Co.
+INV-000000240,Shopee,3/2/22 0:00,Ali Segeir,6287786117844,Jatinegara,4,"275,000",Frags & Co.
+INV-000000240,Shopee,3/2/22 0:00,Ali Segeir,6287786117844,Jatinegara,2,"195,000",Frags & Co.
+INV-000000240,Shopee,3/2/22 0:00,Ali Segeir,6287786117844,Jatinegara,2,"275,000",Frags & Co.
+INV-000000241,Shopee,3/2/22 0:00,Rudi Edo,6281310742228,Koja,4,"325,000",Frags & Co.
+INV-000000242,Shopee,3/2/22 0:00,Ummu Zubair ,6281289767131,Larangan,1,"365,000",Frags & Co.
+INV-000000243,Shopee,3/2/22 0:00,Indra Azzami,6287864000826,Sandubaya,1,"195,000",Frags & Co.
+INV-000000244,Shopee,3/2/22 0:00,Khairul Fatihin,6285257494204,Sekadau Hilir,2,"195,000",Frags & Co.
+INV-000000245,Shopee,3/2/22 0:00,Abdullah Pram,6282334878853,Tebet,1,"325,000",Frags & Co.
+INV-000000246,Shopee,3/2/22 0:00,Yosep Wisnu,6281289300520,Tembalang,4,"145,000",Frags & Co.
+INV-000000247,Shopee,3/2/22 0:00,D**E A********N,6***********0,Pelaihari,1,"365,000",Frags & Co.
+INV-000000247,Shopee,3/2/22 0:00,D**E A********N,6***********0,Pelaihari,2,"195,000",Frags & Co.
+INV-000000248,Shopee,3/2/22 0:00,Anggi Hadi Kusuma,6285352595752,Cikarang Pusat,4,"365,000",Frags & Co.
+INV-000000249,Shopee,3/2/22 0:00,Bobby Michael,6281808504800,Ciputat Timur,1,"195,000",Frags & Co.
+INV-000000249,Shopee,3/2/22 0:00,Bobby Michael,6281808504800,Ciputat Timur,3,"365,000",Frags & Co.
+INV-000000250,Shopee,3/2/22 0:00,Aloysius Steven Margono,6282210904055,Cisauk,4,"275,000",Frags & Co.
+INV-000000251,Shopee,3/2/22 0:00,Ridha,6281323918967,Cibinong,4,"195,000",Frags & Co.
+INV-000000252,Shopee,3/2/22 0:00,N***Y N********I,6***********9,Cimanggis,3,"365,000",Frags & Co.
+INV-000000253,Shopee,3/2/22 0:00,Rendy,6285641303445,Sidoarjo,3,"145,000",Frags & Co.
+INV-000000254,Shopee,3/2/22 0:00,Nola Fitria,6281219263639,Gunung Putri,4,"275,000",Frags & Co.
+INV-000000254,Shopee,3/2/22 0:00,Nola Fitria,6281219263639,Gunung Putri,3,"275,000",Frags & Co.
+INV-000000254,Shopee,3/2/22 0:00,Nola Fitria,6281219263639,Gunung Putri,2,"145,000",Frags & Co.
+INV-000000255,Shopee,3/2/22 0:00,Abi Yaser ,6281311263396,Ciputat Timur,2,"365,000",Frags & Co.
+INV-000000256,Shopee,3/2/22 0:00,H***I M*****D F*****S,6***********4,Kembangan,2,"325,000",Frags & Co.
+INV-000000257,Shopee,4/2/22 0:00,S*****I,6***********0,Lubuk Baja,4,"145,000",Frags & Co.
+INV-000000258,Shopee,4/2/22 0:00,E**K R****N  I*U D***H ,0**********3,Ciparay,3,"365,000",Frags & Co.
+INV-000000259,Shopee,4/2/22 0:00,H***O,6***********0,Lubuk Baja,3,"145,000",Frags & Co.
+INV-000000260,Shopee,4/2/22 0:00,Y********A E***N,0**********5,Temanggung,1,"145,000",Frags & Co.
+INV-000000261,Shopee,4/2/22 0:00,Y***I P***********H,0*********9,Pondok Aren,1,"195,000",Frags & Co.
+INV-000000262,Shopee,3/2/22 0:00,Z****I H*****P,6***********0,Medan Denai,3,"365,000",Frags & Co.
+INV-000000263,Shopee,3/2/22 0:00,W***U,6***********8,Grogol Petamburan,3,"325,000",Frags & Co.
+INV-000000264,Shopee,3/2/22 0:00,F***I A****A,6***********9,Kramat Jati,3,"195,000",Frags & Co.
+INV-000000265,Shopee,3/2/22 0:00,A*I Y***A M*****A,6***********0,Taman Sari,4,"145,000",Frags & Co.
+INV-000000266,Shopee,3/2/22 0:00,M*******D I***L,6***********9,Gading Rejo,3,"145,000",Frags & Co.
+INV-000000267,Shopee,3/2/22 0:00,D**I A***I,6***********2,Sukajaya,1,"145,000",Frags & Co.
+INV-000000267,Shopee,3/2/22 0:00,D**I A***I,6***********2,Sukajaya,4,"365,000",Frags & Co.
+INV-000000267,Shopee,3/2/22 0:00,D**I A***I,6***********2,Sukajaya,3,"365,000",Frags & Co.
+INV-000000268,Shopee,3/2/22 0:00,I*A N*****A,0**********5,Pasar Kemis,1,"195,000",Frags & Co.
+INV-000000269,Shopee,3/2/22 0:00,A**S K********O,6***********6,Pasar Minggu,4,"325,000",Frags & Co.
+INV-000000270,Shopee,3/2/22 0:00,E***I R*****I,6***********0,Sintang,3,"195,000",Frags & Co.
+INV-000000271,Shopee,3/2/22 0:00,L******L H***M H*P,6***********0,Medan Timur,3,"275,000",Frags & Co.
+INV-000000272,Shopee,3/2/22 0:00,D***S T****I A*I,6***********3,Kaubun,3,"145,000",Frags & Co.
+INV-000000273,Shopee,3/2/22 0:00,R***Y A*******H,6***********0,Mandalajati,4,"145,000",Frags & Co.
+INV-000000274,Shopee,3/2/22 0:00,A**S S*****O,6***********8,Karangtengah,1,"145,000",Frags & Co.
+INV-000000275,Shopee,3/2/22 0:00,R*****I  A***G,6**********3,Bantar Gebang,1,"195,000",Frags & Co.
+INV-000000275,Shopee,3/2/22 0:00,R*****I  A***G,6**********3,Bantar Gebang,2,"195,000",Frags & Co.
+INV-000000276,Shopee,3/2/22 0:00,D**O N**A P***A,6***********5,Pasaman,3,"145,000",Frags & Co.
+INV-000000277,Shopee,3/2/22 0:00,K**I S******H,6***********9,Bojongloa Kaler,2,"195,000",Frags & Co.
+INV-000000278,Shopee,3/2/22 0:00,B***K Y*******A,6***********4,Margahayu,2,"365,000",Frags & Co.
+INV-000000279,Shopee,3/2/22 0:00,Yogi Permana,6283100140650,Margaasih,1,"365,000",Frags & Co.
+INV-000000280,Shopee,3/2/22 0:00,Yatmansiswani,6285900494232,Banjarnegara,4,"195,000",Frags & Co.
+INV-000000281,Shopee,4/2/22 0:00,Muhammad Umar Al Faruqi,6289661696771,Citeureup,4,"195,000",Frags & Co.
+INV-000000282,Shopee,4/2/22 0:00,Kurniawan Saputra,6282280783235,Jati Agung,4,"145,000",Frags & Co.
+INV-000000282,Shopee,4/2/22 0:00,Kurniawan Saputra,6282280783235,Jati Agung,1,"195,000",Frags & Co.
+INV-000000283,Shopee,4/2/22 0:00,Nandang,6281932754153,Kebon Jeruk,2,"195,000",Frags & Co.
+INV-000000284,Shopee,4/2/22 0:00,Mutamimah Bp Alfian,6289505991009,Babelan,3,"275,000",Frags & Co.
+INV-000000285,Shopee,4/2/22 0:00,Ahmad Fadhillah,6281210804696,Ciawi,1,"365,000",Frags & Co.
+INV-000000286,Shopee,4/2/22 0:00,Rezx,6282298401685,Pondok Aren,3,"325,000",Frags & Co.
+INV-000000287,Shopee,4/2/22 0:00,Julian Tisi,628111938999,Bekasi Selatan,3,"275,000",Frags & Co.
+INV-000000288,Shopee,4/2/22 0:00,Gilang Ramadhan Warung Yuyun,6282130045786,Coblong,4,"195,000",Frags & Co.
+INV-000000289,Shopee,4/2/22 0:00,Segair,6281319257557,Jagakarsa,4,"275,000",Frags & Co.
+INV-000000290,Shopee,3/2/22 0:00,Andri,6287795576611,Gambir,2,"275,000",Frags & Co.
+INV-000000291,Shopee,3/2/22 0:00,Irvan Satria,6281385149913,Serpong Utara,4,"145,000",Frags & Co.
+INV-000000292,Shopee,3/2/22 0:00,Nicholas,6281281915205,Pulo Gadung,2,"365,000",Frags & Co.
+INV-000000293,Shopee,3/2/22 0:00,Rian,6281265088847,Pondok Aren,1,"325,000",Frags & Co.
+INV-000000293,Shopee,3/2/22 0:00,Rian,6281265088847,Pondok Aren,4,"365,000",Frags & Co.
+INV-000000294,Shopee,3/2/22 0:00,Kemal Firmansyah,6281313775466,Rancabali,2,"325,000",Frags & Co.
+INV-000000295,Shopee,3/2/22 0:00,Agus Darmadi,6285649800086,Benowo,2,"325,000",Frags & Co.
+INV-000000295,Shopee,3/2/22 0:00,Agus Darmadi,6285649800086,Benowo,2,"195,000",Frags & Co.
+INV-000000295,Shopee,3/2/22 0:00,Agus Darmadi,6285649800086,Benowo,1,"325,000",Frags & Co.
+INV-000000296,Shopee,3/2/22 0:00,Indra,6285793665518,Bekasi Selatan,1,"325,000",Frags & Co.
+INV-000000296,Shopee,3/2/22 0:00,Indra,6285793665518,Bekasi Selatan,2,"275,000",Frags & Co.
+INV-000000296,Shopee,3/2/22 0:00,Indra,6285793665518,Bekasi Selatan,3,"365,000",Frags & Co.
+INV-000000297,Shopee,3/2/22 0:00,Khafi Mubegi,6285714877502,Pamulang,3,"145,000",Frags & Co.
+INV-000000298,Shopee,4/2/22 0:00,Royyan Raffiq Bawazier ,6281313132404,Bogor Selatan,3,"195,000",Frags & Co.
+INV-000000299,Shopee,4/2/22 0:00,Efi Supangkat  ,6281291682077,Tanjung Priok,4,"325,000",Frags & Co.
+INV-000000300,Shopee,4/2/22 0:00,Een Nasution,62895614266345,Medan Helvetia,2,"195,000",Frags & Co.
+INV-000000301,Shopee,4/2/22 0:00,Muhammad Arie Fajar,6281255550580,Cempaka,3,"145,000",Frags & Co.
+INV-000000302,Shopee,4/2/22 0:00,Arifin Jazmi,6285726845866,Ciputat,1,"195,000",Frags & Co.
+INV-000000303,Shopee,4/2/22 0:00,Roni  ,6281316525754,Rawalumbu,3,"145,000",Frags & Co.
+INV-000000303,Shopee,4/2/22 0:00,Roni  ,6281316525754,Rawalumbu,3,"275,000",Frags & Co.
+INV-000000304,Shopee,4/2/22 0:00,Adam P,628111757200,Buduran,3,"325,000",Frags & Co.
+INV-000000305,Shopee,4/2/22 0:00,Hadi Caroko,6285785569499,Bancar,4,"145,000",Frags & Co.
+INV-000000306,Shopee,4/2/22 0:00,Galih  ,6281299436701,Serpong,1,"195,000",Frags & Co.
+INV-000000307,Shopee,4/2/22 0:00,Abizar Kaliman,6285348089883,Mantikulore,2,"325,000",Frags & Co.
+INV-000000308,Shopee,4/2/22 0:00,Herdy   ,628971615860,Pontianak Kota,1,"275,000",Frags & Co.
+INV-000000309,Shopee,4/2/22 0:00,Tony Mulyono,628168269993,Pancoran,2,"325,000",Frags & Co.
+INV-000000310,Shopee,4/2/22 0:00,Cahya,6281314101664,Cinere,4,"145,000",Frags & Co.
+INV-000000311,Shopee,4/2/22 0:00,Enrico Zachrie,6281288388632,Cilandak,4,"275,000",Frags & Co.
+INV-000000312,Shopee,4/2/22 0:00,Windhusara,628113853777,Denpasar Selatan,4,"195,000",Frags & Co.
+INV-000000313,Shopee,4/2/22 0:00,Resky Yustiawan,6287287785590,Cinere,4,"275,000",Frags & Co.
+INV-000000314,Shopee,4/2/22 0:00,Harist,6285946022622,Legok,2,"275,000",Frags & Co.
+INV-000000315,Shopee,4/2/22 0:00,Reszki,62811490711,Kuta,3,"365,000",Frags & Co.
+INV-000000316,Shopee,4/2/22 0:00,Olwyn Lesmana,6281293758924,Pulo Gadung,2,"275,000",Frags & Co.
+INV-000000316,Shopee,4/2/22 0:00,Olwyn Lesmana,6281293758924,Pulo Gadung,1,"275,000",Frags & Co.
+INV-000000317,Shopee,4/2/22 0:00,Mustofa Otfan,628128995344,Cibodas,4,"325,000",Frags & Co.
+INV-000000318,Shopee,4/2/22 0:00,Dede Maulanarobi Darwis,6283805813597,Pulo Ampel,4,"195,000",Frags & Co.
+INV-000000319,Shopee,4/2/22 0:00,Dwight,628114331476,Mapanget,1,"325,000",Frags & Co.
+INV-000000320,Shopee,4/2/22 0:00,Jeje,6282299380560,Tanjung Priok,2,"325,000",Frags & Co.
+INV-000000321,Shopee,4/2/22 0:00,Indra Wiadnyana,6285792416141,Denpasar Utara,3,"145,000",Frags & Co.
+INV-000000322,Shopee,4/2/22 0:00,Evan,6282179596364,Wonosari,1,"275,000",Frags & Co.
+INV-000000323,Shopee,4/2/22 0:00,Ivan Firmansyah,628813724635,Ngaliyan,1,"365,000",Frags & Co.
+INV-000000324,Shopee,4/2/22 0:00,Paulus,6282122601195,Duren Sawit,2,"325,000",Frags & Co.
+INV-000000324,Shopee,4/2/22 0:00,Paulus,6282122601195,Duren Sawit,4,"365,000",Frags & Co.
+INV-000000325,Shopee,4/2/22 0:00,Nanning,6282344666636,Bahodopi,1,"145,000",Frags & Co.
+INV-000000326,Shopee,4/2/22 0:00,Suryadi Chuya,6281382575993,Caringin,3,"325,000",Frags & Co.
+INV-000000327,Shopee,4/2/22 0:00,E**L ,6***********6,Bekasi Timur,3,"195,000",Frags & Co.
+INV-000000328,Shopee,4/2/22 0:00,M******D H*****L,6***********3,Kadia,4,"275,000",Frags & Co.
+INV-000000329,Shopee,4/2/22 0:00,Ramadoni F,6282211123940,Kota Baru,3,"325,000",Frags & Co.
+INV-000000330,Shopee,4/2/22 0:00,E**S R*******I ,0**********9,Gunung Putri,4,"325,000",Frags & Co.
+INV-000000331,Shopee,4/2/22 0:00,Marta Eko Kurniawan,6281286339815,Pancoran,3,"145,000",Frags & Co.
+INV-000000332,Shopee,4/2/22 0:00,Randi Syadin,6287883756211,Bekasi Selatan,2,"275,000",Frags & Co.
+INV-000000333,Shopee,4/2/22 0:00,K***A,6**********3,Tanjung Senang,1,"195,000",Frags & Co.
+INV-000000334,Shopee,4/2/22 0:00,B***K H***Y Y*****O,6***********4,Pancoran Mas,2,"325,000",Frags & Co.
+INV-000000335,Shopee,4/2/22 0:00,Doddy Firmansyah,6281271876123,Alang Alang Lebar,1,"325,000",Frags & Co.
+INV-000000336,Shopee,4/2/22 0:00,Rizky Sardiansyah,628119177744,Ciputat,1,"145,000",Frags & Co.
+INV-000000337,Shopee,4/2/22 0:00,T****G C***R H****P,6***********0,Jambi Timur,1,"365,000",Frags & Co.
+INV-000000338,Shopee,5/2/22 0:00,R***Q A****I,6***********5,Jorong,2,"195,000",Frags & Co.
+INV-000000339,Shopee,5/2/22 0:00,S**P *****A S*****,0**********8,Bojonegara,1,"275,000",Frags & Co.
+INV-000000339,Shopee,5/2/22 0:00,S**P *****A S*****,0**********8,Bojonegara,2,"325,000",Frags & Co.
+INV-000000340,Shopee,5/2/22 0:00,J**I N********N,6***********3,Tembalang,4,"325,000",Frags & Co.
+INV-000000341,Shopee,5/2/22 0:00,I**N R****I,6***********0,Tanjung Balai Utara,1,"275,000",Frags & Co.
+INV-000000342,Shopee,5/2/22 0:00,I***L Y****I,6************9,Buahbatu,3,"195,000",Frags & Co.
+INV-000000343,Shopee,4/2/22 0:00,F******** M***A G****G M****R,6***********7,Grogol,3,"365,000",Frags & Co.
+INV-000000343,Shopee,4/2/22 0:00,F******** M***A G****G M****R,6***********7,Grogol,1,"325,000",Frags & Co.
+INV-000000344,Shopee,4/2/22 0:00,R****H Y*****A,6***********0,Cimanggis,3,"195,000",Frags & Co.
+INV-000000345,Shopee,4/2/22 0:00,D****G P********Y,6***********8,Manguharjo,4,"275,000",Frags & Co.
+INV-000000345,Shopee,4/2/22 0:00,D****G P********Y,6***********8,Manguharjo,4,"145,000",Frags & Co.
+INV-000000346,Shopee,4/2/22 0:00,R**A I****N,6***********5,Ciputat Timur,3,"195,000",Frags & Co.
+INV-000000347,Shopee,4/2/22 0:00,I**L,0*********6,Rappocini,2,"195,000",Frags & Co.
+INV-000000348,Shopee,4/2/22 0:00,Y***I P*****A,0**********4,Lima Kaum,2,"145,000",Frags & Co.
+INV-000000349,Shopee,5/2/22 0:00,R*******Q  K****Y A**N ,6***********3,Kalideres,1,"145,000",Frags & Co.
+INV-000000350,Shopee,4/2/22 0:00,D********O,6***********0,Kembaran,3,"145,000",Frags & Co.
+INV-000000351,Shopee,4/2/22 0:00,A********H,6***********5,Tigaraksa,3,"275,000",Frags & Co.
+INV-000000352,Shopee,4/2/22 0:00,D***A,6***********1,Bukit Bestari,2,"365,000",Frags & Co.
+INV-000000353,Shopee,4/2/22 0:00,R**O A******O L***E,6***********8,Bulango Selatan,2,"275,000",Frags & Co.
+INV-000000354,Shopee,4/2/22 0:00,I******L M*****N,6***********7,Balikpapan Selatan,3,"275,000",Frags & Co.
+INV-000000354,Shopee,4/2/22 0:00,I******L M*****N,6***********7,Balikpapan Selatan,2,"195,000",Frags & Co.
+INV-000000355,Shopee,4/2/22 0:00,K**A L******I,6***********0,Sukarami,2,"275,000",Frags & Co.
+INV-000000356,Shopee,4/2/22 0:00,M******H B********N,0**********2,Tanjung Morawa,4,"275,000",Frags & Co.
+INV-000000357,Shopee,4/2/22 0:00,M*******A I S D M****G,6***********1,Kota Raja,4,"145,000",Frags & Co.
+INV-000000357,Shopee,4/2/22 0:00,M*******A I S D M****G,6***********1,Kota Raja,2,"325,000",Frags & Co.
+INV-000000358,Shopee,4/2/22 0:00,H***Y A*****R,6*********0,Padang Barat,4,"325,000",Frags & Co.
+INV-000000359,Shopee,4/2/22 0:00,R*O P***A P*****A,6***********2,Bekasi Selatan,1,"325,000",Frags & Co.
+INV-000000360,Shopee,4/2/22 0:00,P*****I A*I N*****O,6**********8,Sindue,3,"195,000",Frags & Co.
+INV-000000360,Shopee,4/2/22 0:00,P*****I A*I N*****O,6**********8,Sindue,1,"145,000",Frags & Co.
+INV-000000361,Shopee,4/2/22 0:00,S****F I********N,6***********3,Cileungsi,2,"365,000",Frags & Co.
+INV-000000362,Shopee,5/2/22 0:00,Lucky Suryawijaya Elfrid Amping,6281341669771,Tamalanrea,4,"145,000",Frags & Co.
+INV-000000363,Shopee,5/2/22 0:00,Fauzul Ihsan,6281289502881,Sedati,1,"275,000",Frags & Co.
+INV-000000363,Shopee,5/2/22 0:00,Fauzul Ihsan,6281289502881,Sedati,1,"325,000",Frags & Co.
+INV-000000364,Shopee,5/2/22 0:00,Roti Bakar,6285221483655,Teluk Jambe Timur,3,"325,000",Frags & Co.
+INV-000000365,Shopee,5/2/22 0:00,Aswad Gafar,6285241149898,Luwuk Selatan,1,"145,000",Frags & Co.
+INV-000000366,Shopee,5/2/22 0:00,Aand ,6282291952151,Panakukkang,3,"275,000",Frags & Co.
+INV-000000367,Shopee,5/2/22 0:00,Yoggi Kurnia,6289678223232,Makasar,1,"325,000",Frags & Co.
+INV-000000367,Shopee,5/2/22 0:00,Yoggi Kurnia,6289678223232,Makasar,3,"365,000",Frags & Co.
+INV-000000368,Shopee,5/2/22 0:00,Riopak Aak,6281278249115,Lubai Ulu,4,"365,000",Frags & Co.
+INV-000000369,Shopee,5/2/22 0:00,Rafli,6282211092621,Jagakarsa,2,"325,000",Frags & Co.
+INV-000000370,Shopee,5/2/22 0:00,James Buster Antonio Polnaya,6287855476003,Sawahan,2,"145,000",Frags & Co.
+INV-000000370,Shopee,5/2/22 0:00,James Buster Antonio Polnaya,6287855476003,Sawahan,2,"145,000",Frags & Co.
+INV-000000371,Shopee,5/2/22 0:00,Ardiansyah ,6281383839079,Bekasi Selatan,1,"145,000",Frags & Co.
+INV-000000372,Shopee,5/2/22 0:00,Rohmatullah,6283147109115,Neglasari,3,"325,000",Frags & Co.
+INV-000000373,Shopee,5/2/22 0:00,Aditya  ,6287730615009,Kramatmulya,4,"145,000",Frags & Co.
+INV-000000373,Shopee,5/2/22 0:00,Aditya  ,6287730615009,Kramatmulya,4,"275,000",Frags & Co.
+INV-000000374,Shopee,5/2/22 0:00,Aria Aditya ,6285697557791,Neglasari,1,"365,000",Frags & Co.
+INV-000000375,Shopee,5/2/22 0:00,Riki Fadli,6282242422057,Cikarang Selatan,1,"325,000",Frags & Co.
+INV-000000376,Shopee,5/2/22 0:00,Prasamnya,6282169052147,Nan Balimo,3,"325,000",Frags & Co.
+INV-000000376,Shopee,5/2/22 0:00,Prasamnya,6282169052147,Nan Balimo,3,"325,000",Frags & Co.
+INV-000000376,Shopee,5/2/22 0:00,Prasamnya,6282169052147,Nan Balimo,4,"325,000",Frags & Co.
+INV-000000376,Shopee,5/2/22 0:00,Prasamnya,6282169052147,Nan Balimo,2,"325,000",Frags & Co.
+INV-000000377,Shopee,5/2/22 0:00,Rey Tobing,6281362236324,Tanah Abang,3,"365,000",Frags & Co.
+INV-000000378,Shopee,5/2/22 0:00,David Steven,6287831135519,Duren Sawit,2,"275,000",Frags & Co.
+INV-000000379,Shopee,5/2/22 0:00,Bayu Aulia Riensya,6281312111912,Marpoyan Damai,4,"325,000",Frags & Co.
+INV-000000379,Shopee,5/2/22 0:00,Bayu Aulia Riensya,6281312111912,Marpoyan Damai,2,"195,000",Frags & Co.
+INV-000000379,Shopee,5/2/22 0:00,Bayu Aulia Riensya,6281312111912,Marpoyan Damai,3,"195,000",Frags & Co.
+INV-000000380,Shopee,5/2/22 0:00,Ghafan Naufal,6285717943833,Ciracas,2,"275,000",Frags & Co.
+INV-000000381,Shopee,5/2/22 0:00,Oldy Soplantino,6281354490888,Poso Kota Selatan,3,"145,000",Frags & Co.
+INV-000000382,Shopee,5/2/22 0:00,Muhammad Ali Akbar,6281291760821,Kisaran Timur,2,"145,000",Frags & Co.
+INV-000000382,Shopee,5/2/22 0:00,Muhammad Ali Akbar,6281291760821,Kisaran Timur,3,"145,000",Frags & Co.
+INV-000000383,Shopee,5/2/22 0:00,Sudarso,6285719216071,Penjaringan,3,"195,000",Frags & Co.
+INV-000000384,Shopee,5/2/22 0:00,Muhamad Rizal Izay,628882164676,Batununggal,2,"145,000",Frags & Co.
+INV-000000385,Shopee,5/2/22 0:00,Priyo Utomo Usmar La Auza,6282238712225,Wiyung,4,"365,000",Frags & Co.
+INV-000000386,Shopee,4/2/22 0:00,Daniel,6282297223844,Penjaringan,1,"325,000",Frags & Co.
+INV-000000386,Shopee,4/2/22 0:00,Daniel,6282297223844,Penjaringan,4,"195,000",Frags & Co.
+INV-000000387,Shopee,4/2/22 0:00,Agung Siye,6281225101155,Gondokusuman,2,"275,000",Frags & Co.
+INV-000000387,Shopee,4/2/22 0:00,Agung Siye,6281225101155,Gondokusuman,4,"275,000",Frags & Co.
+INV-000000388,Shopee,4/2/22 0:00,M Ichsan,6281214736607,Kelapa Gading,3,"325,000",Frags & Co.
+INV-000000389,Shopee,4/2/22 0:00,Faizar,6281234500701,Simboro Dan Kepulauan,1,"195,000",Frags & Co.
+INV-000000390,Shopee,4/2/22 0:00,Wikan Handono,6282179423428,Coblong,2,"145,000",Frags & Co.
+INV-000000390,Shopee,4/2/22 0:00,Wikan Handono,6282179423428,Coblong,2,"145,000",Frags & Co.
+INV-000000391,Shopee,4/2/22 0:00,Vico,6285884830715,Banyumanik,2,"365,000",Frags & Co.
+INV-000000392,Shopee,4/2/22 0:00,Kevin Ardhi Harianto,6282138889141,Solo,1,"365,000",Frags & Co.
+INV-000000393,Shopee,5/2/22 0:00,Lutfi Hidayat,6285254767696,Kediri,3,"145,000",Frags & Co.
+INV-000000394,Shopee,5/2/22 0:00,Setyo,6281329367176,Gamping,2,"275,000",Frags & Co.
+INV-000000395,Shopee,5/2/22 0:00,Bayu,6281210495162,Ciputat,4,"275,000",Frags & Co.
+INV-000000396,Shopee,5/2/22 0:00,S****E K*****I,6***********5,Koja,2,"365,000",Frags & Co.
+INV-000000397,Shopee,5/2/22 0:00,A***N Z*****A,6***********0,Karang Tengah,2,"325,000",Frags & Co.
+INV-000000398,Shopee,5/2/22 0:00,Paramitta,6281215515441,Bekasi Utara,2,"145,000",Frags & Co.
+INV-000000399,Shopee,5/2/22 0:00,H***Y P*****A P***A,6***********7,Depok,2,"365,000",Frags & Co.
+INV-000000399,Shopee,5/2/22 0:00,H***Y P*****A P***A,6***********7,Depok,3,"365,000",Frags & Co.
+INV-000000400,Shopee,5/2/22 0:00,I***N,0**********4,Medan Marelan,4,"145,000",Frags & Co.
+INV-000000401,Shopee,5/2/22 0:00,M******D Z****N,6************9,Kota Baru,3,"145,000",Frags & Co.
+INV-000000402,Shopee,5/2/22 0:00,Z****N,6***********8,Ampenan,4,"275,000",Frags & Co.
+INV-000000403,Shopee,5/2/22 0:00,A**I F***********N,6***********3,Balikpapan Tengah,2,"325,000",Frags & Co.
+INV-000000404,Shopee,5/2/22 0:00,Triono,6281394000292,Gunung Terang,1,"325,000",Frags & Co.
+INV-000000405,Shopee,5/2/22 0:00,Nina Desvani Hutagalung,6285358845940,Siantar Utara,3,"145,000",Frags & Co.
+INV-000000406,Shopee,5/2/22 0:00,A**F C*****A,6***********7,Bungursari,1,"195,000",Frags & Co.
+INV-000000406,Shopee,5/2/22 0:00,A**F C*****A,6***********7,Bungursari,3,"365,000",Frags & Co.
+INV-000000407,Shopee,5/2/22 0:00,Kristiyono,6282226294244,Sambiroto,2,"365,000",Frags & Co.
+INV-000000407,Shopee,5/2/22 0:00,Kristiyono,6282226294244,Sambiroto,3,"145,000",Frags & Co.
+INV-000000408,Shopee,5/2/22 0:00,Rengga,6281292600900,Tembalang,2,"195,000",Frags & Co.
+INV-000000409,Shopee,5/2/22 0:00,Akbar Kurniawan,6285842666636,Cilacap Selatan,3,"275,000",Frags & Co.
+INV-000000410,Shopee,5/2/22 0:00,D**I A********H,6************0,Bojonggede,2,"145,000",Frags & Co.
+INV-000000411,Shopee,5/2/22 0:00,M******D R***I A******I,6***********2,Limo,2,"145,000",Frags & Co.
+INV-000000412,Shopee,7/2/22 0:00,F***Y,0**********1,Matraman,4,"365,000",Frags & Co.
+INV-000000412,Shopee,7/2/22 0:00,F***Y,0**********1,Matraman,2,"145,000",Frags & Co.
+INV-000000413,Shopee,9/2/22 0:00,A**P JEAN,6***********9,Baleendah,4,"145,000",Frags & Co.
+INV-000000414,Shopee,7/2/22 0:00,A**P J**N,6***********6,Baleendah,2,"145,000",Frags & Co.
+INV-000000415,Shopee,6/2/22 0:00,D**N,6***********9,Baros,1,"365,000",Frags & Co.
+INV-000000416,Shopee,6/2/22 0:00,P* S********A A*****N M*****I,6***********7,Setia Budi,2,"275,000",Frags & Co.
+INV-000000417,Shopee,7/2/22 0:00,J******O F*****S P*,6***********6,Cempaka Putih,1,"275,000",Frags & Co.
+INV-000000418,Shopee,6/2/22 0:00,W**********H,0**********3,Cakung,2,"365,000",Frags & Co.
+INV-000000419,Shopee,6/2/22 0:00,F**A,6***********0,Tebet,1,"145,000",Frags & Co.
+INV-000000420,Shopee,6/2/22 0:00,N****F,6***********5,Tembilahan,1,"275,000",Frags & Co.
+INV-000000421,Shopee,6/2/22 0:00,K***N W****A,6***********5,Tanah Abang,4,"275,000",Frags & Co.
+INV-000000422,Shopee,6/2/22 0:00,D***L,6***********7,Nagreg,3,"275,000",Frags & Co.
+INV-000000423,Shopee,6/2/22 0:00,A***E,6***********1,Gajah Mungkur,2,"365,000",Frags & Co.
+INV-000000424,Shopee,6/2/22 0:00,A*****L,6***********4,Dlanggu,1,"365,000",Frags & Co.
+INV-000000425,Shopee,6/2/22 0:00,O**A,0**********6,Ilir Barat I,2,"145,000",Frags & Co.
+INV-000000426,Shopee,6/2/22 0:00,C*****A A**Y,6***********8,Cilincing,4,"325,000",Frags & Co.
+INV-000000427,Shopee,6/2/22 0:00,I*U S**I,6***********6,Kemayoran,2,"275,000",Frags & Co.
+INV-000000428,Shopee,6/2/22 0:00,M******D R***L,6**********0,Kongbeng,2,"325,000",Frags & Co.
+INV-000000428,Shopee,6/2/22 0:00,M******D R***L,6**********0,Kongbeng,1,"365,000",Frags & Co.
+INV-000000429,Shopee,6/2/22 0:00,I***N **U K******,6***********0,Tambaksari,4,"365,000",Frags & Co.
+INV-000000430,Shopee,6/2/22 0:00,S*****N,6***********9,Wonosegoro,3,"365,000",Frags & Co.
+INV-000000431,Shopee,6/2/22 0:00,J**O H******O,6***********1,Oebobo,3,"325,000",Frags & Co.
+INV-000000432,Shopee,6/2/22 0:00,G****G S*****N,6***********5,Tambun Selatan,1,"195,000",Frags & Co.
+INV-000000433,Shopee,6/2/22 0:00,R***N M*****A A**Z,6***********5,Banjarmasin Timur,3,"145,000",Frags & Co.
+INV-000000434,Shopee,6/2/22 0:00,Y**A A*****A,6***********7,Lawang,1,"365,000",Frags & Co.
+INV-000000435,Shopee,6/2/22 0:00,N***A P********G,6**********1,Limboto Barat,4,"365,000",Frags & Co.
+INV-000000436,Shopee,6/2/22 0:00,F****L A*****O,6***********5,Pondok Gede,4,"275,000",Frags & Co.
+INV-000000437,Shopee,6/2/22 0:00,J***I K********O,6***********9,Setia Budi,2,"145,000",Frags & Co.
+INV-000000437,Shopee,6/2/22 0:00,J***I K********O,6***********9,Setia Budi,1,"365,000",Frags & Co.
+INV-000000438,Shopee,6/2/22 0:00,M*****D R***Y K**I,0**********5,Menteng,1,"195,000",Frags & Co.
+INV-000000439,Shopee,6/2/22 0:00,A********O,6***********8,Penjaringan,2,"365,000",Frags & Co.
+INV-000000440,Shopee,6/2/22 0:00,A***F Y*******A,6***********3,Cipayung,1,"195,000",Frags & Co.
+INV-000000441,Shopee,6/2/22 0:00,I**A,6***********2,Cimaung,2,"145,000",Frags & Co.
+INV-000000442,Shopee,6/2/22 0:00,R****A R**I A********H,6***********6,Denpasar Selatan,4,"325,000",Frags & Co.
+INV-000000442,Shopee,6/2/22 0:00,R****A R**I A********H,6***********6,Denpasar Selatan,4,"275,000",Frags & Co.
+INV-000000443,Shopee,6/2/22 0:00,G****G F****N,6***********1,Pancoran Mas,1,"365,000",Frags & Co.
+INV-000000444,Shopee,6/2/22 0:00,M******D H**********H,6***********6,Tanjung Pinang Timur,4,"325,000",Frags & Co.
+INV-000000445,Shopee,6/2/22 0:00,E****I R***I N******A,6***********5,Pati,3,"365,000",Frags & Co.
+INV-000000445,Shopee,6/2/22 0:00,E****I R***I N******A,6***********5,Pati,4,"145,000",Frags & Co.
+INV-000000446,Shopee,5/2/22 0:00,V****R T***H B****A,0**********1,Sengah Temila,1,"195,000",Frags & Co.
+INV-000000447,Shopee,5/2/22 0:00,F*******I,6***********7,Ilir Timur Ii,3,"145,000",Frags & Co.
+INV-000000448,Shopee,5/2/22 0:00,Y***K S**I M*****I,6***********5,Balikpapan Timur,1,"275,000",Frags & Co.
+INV-000000449,Shopee,5/2/22 0:00,J***I,6**********5,Tambora,4,"275,000",Frags & Co.
+INV-000000450,Shopee,5/2/22 0:00,S***Y A******I,6***********9,Cilincing,4,"325,000",Frags & Co.
+INV-000000451,Shopee,6/2/22 0:00,F*****S,0**********9,Banda Sakti,3,"325,000",Frags & Co.
+INV-000000451,Shopee,6/2/22 0:00,F*****S,0**********9,Banda Sakti,4,"325,000",Frags & Co.
+INV-000000451,Shopee,6/2/22 0:00,F*****S,0**********9,Banda Sakti,4,"195,000",Frags & Co.
+INV-000000452,Shopee,5/2/22 0:00,G***A D*I P*****A,6***********2,Penjaringan,4,"325,000",Frags & Co.
+INV-000000453,Shopee,5/2/22 0:00,A**S S******N,6***********5,Ciledug,4,"365,000",Frags & Co.
+INV-000000454,Shopee,5/2/22 0:00,S*************G C********N,6***********3,Bahodopi,2,"145,000",Frags & Co.
+INV-000000455,Shopee,5/2/22 0:00,A*****A,6***********6,Jelutung,1,"325,000",Frags & Co.
+INV-000000455,Shopee,5/2/22 0:00,A*****A,6***********6,Jelutung,1,"365,000",Frags & Co.
+INV-000000456,Shopee,5/2/22 0:00,W***N E*******A,6***********5,Sampang,3,"275,000",Frags & Co.
+INV-000000457,Shopee,5/2/22 0:00,R**A R******N,6***********7,Bandung Kidul,2,"195,000",Frags & Co.
+INV-000000458,Shopee,5/2/22 0:00,A*********N,6***********6,Wedarijaksa,3,"275,000",Frags & Co.
+INV-000000459,Shopee,5/2/22 0:00,I***M S*****A,6***********8,Loa Janan,1,"145,000",Frags & Co.
+INV-000000460,Shopee,6/2/22 0:00,Suthan Aji Kuswara,6281586276546,Cikarang Barat,4,"325,000",Frags & Co.
+INV-000000461,Shopee,6/2/22 0:00,Harry Adrian,6289601830245,Bekasi Utara,3,"325,000",Frags & Co.
+INV-000000462,Shopee,7/2/22 0:00,Anggita Hirzi,6287883390965,Koja,2,"145,000",Frags & Co.
+INV-000000463,Shopee,7/2/22 0:00,Awan Mustafa Aji,6285718862965,Jatinegara,4,"195,000",Frags & Co.
+INV-000000464,Shopee,7/2/22 0:00,Dadi Hamzah,6281212120979,Kelapa Gading,1,"325,000",Frags & Co.
+INV-000000465,Shopee,7/2/22 0:00,Juanda,6281272331925,Mesuji,3,"365,000",Frags & Co.
+INV-000000466,Shopee,7/2/22 0:00,Alify Yanura,6285755165911,Cicendo,3,"325,000",Frags & Co.
+INV-000000467,Shopee,6/2/22 0:00,Hadi Subroto,6282161009990,Duren Sawit,3,"365,000",Frags & Co.
+INV-000000468,Shopee,6/2/22 0:00,Rio,6287782964136,Jagoi Babang,4,"145,000",Frags & Co.
+INV-000000469,Shopee,6/2/22 0:00,Naufal Ghifari Setiawan,6285156408796,Jatiasih,2,"145,000",Frags & Co.
+INV-000000470,Shopee,6/2/22 0:00,Naufal Ekananda,62882006349354,Dayeuhkolot,2,"325,000",Frags & Co.
+INV-000000471,Shopee,6/2/22 0:00,Mubarak Amir,6281337131988,Manyar,3,"275,000",Frags & Co.
+INV-000000472,Shopee,6/2/22 0:00,Marshall Yusuf,628122000100,Sukasari,1,"365,000",Frags & Co.
+INV-000000472,Shopee,6/2/22 0:00,Marshall Yusuf,628122000100,Sukasari,1,"195,000",Frags & Co.
+INV-000000473,Shopee,6/2/22 0:00,Akbar Falah Muttaqien,6281911195515,Tembalang,2,"325,000",Frags & Co.
+INV-000000474,Shopee,6/2/22 0:00,Yuni,62819555064,Pancoran Mas,1,"195,000",Frags & Co.
+INV-000000475,Shopee,6/2/22 0:00,Saifuddin Latief,6281219993262,Gunung Putri,2,"325,000",Frags & Co.
+INV-000000476,Shopee,6/2/22 0:00,Panji,6281247671271,Pondok Aren,3,"275,000",Frags & Co.
+INV-000000476,Shopee,6/2/22 0:00,Panji,6281247671271,Pondok Aren,2,"275,000",Frags & Co.
+INV-000000477,Shopee,6/2/22 0:00,Hudzaifah Khair,62895606086436,Sedayu,2,"275,000",Frags & Co.
+INV-000000478,Shopee,6/2/22 0:00,Alfian Rama Aditya,6281271388887,Tarumajaya,3,"275,000",Frags & Co.
+INV-000000479,Shopee,6/2/22 0:00,Amri,6281363356779,Bogor Selatan,1,"145,000",Frags & Co.
+INV-000000480,Shopee,6/2/22 0:00,Irfanda Yudistira,6281345045879,Delta Pawan,2,"145,000",Frags & Co.
+INV-000000481,Shopee,7/2/22 0:00,I****N,6***********6,Pabuaran,2,"365,000",Frags & Co.
+INV-000000482,Shopee,6/2/22 0:00,Endo,6287875920305,Bekasi Barat,3,"195,000",Frags & Co.
+INV-000000483,Shopee,6/2/22 0:00,Rudy,6281807970188,Serpong,1,"325,000",Frags & Co.
+INV-000000484,Shopee,6/2/22 0:00,Sebastian Chandra,62818695963,Pagedangan,2,"325,000",Frags & Co.
+INV-000000485,Shopee,7/2/22 0:00,Hanief Fadhillah,6285729481960,Serpong,3,"145,000",Frags & Co.
+INV-000000486,Shopee,7/2/22 0:00,Papa Alya,6282323473737,Cibitung,2,"325,000",Frags & Co.
+INV-000000487,Shopee,5/2/22 0:00,Erwin,6281368393399,Kemuning,3,"365,000",Frags & Co.
+INV-000000487,Shopee,5/2/22 0:00,Erwin,6281368393399,Kemuning,1,"195,000",Frags & Co.
+INV-000000488,Shopee,5/2/22 0:00,"Akp Ardyan Ukie Hercahyo, Sik",6281297292003,Tembalang,4,"145,000",Frags & Co.
+INV-000000489,Shopee,5/2/22 0:00,Muhammad Abdurrahman Mukhlis,6281332504447,Mlati,1,"365,000",Frags & Co.
+INV-000000489,Shopee,5/2/22 0:00,Muhammad Abdurrahman Mukhlis,6281332504447,Mlati,1,"275,000",Frags & Co.
+INV-000000490,Shopee,5/2/22 0:00,Philipus Tobi,6281288110967,Jatinegara,1,"275,000",Frags & Co.
+INV-000000491,Shopee,5/2/22 0:00,Bidan Uu,6281293510023,Kragilan,2,"275,000",Frags & Co.
+INV-000000492,Shopee,5/2/22 0:00,Vernando,6287880194505,Gunung Putri,2,"365,000",Frags & Co.
+INV-000000493,Shopee,5/2/22 0:00,Ario Wibowo,62819818118,Pondok Aren,1,"325,000",Frags & Co.
+INV-000000494,Shopee,5/2/22 0:00,Andika Bakti,628116832377,Medan Johor,3,"145,000",Frags & Co.
+INV-000000495,Shopee,5/2/22 0:00,W***u N*****a,6281347116477,Balikpapan Utara,2,"325,000",Frags & Co.
+INV-000000496,Shopee,5/2/22 0:00,Nida,6285255135142,Kelapa Dua,1,"275,000",Frags & Co.
+INV-000000497,Shopee,6/2/22 0:00,Adhi Herdiaman,6282320419270,Rancaekek,3,"195,000",Frags & Co.
+INV-000000498,Shopee,6/2/22 0:00,Muhammad Irsyad R,6281282708717,Cibinong,1,"275,000",Frags & Co.
+INV-000000499,Shopee,6/2/22 0:00,Yanuar Kusendarto,62817248295,Serpong,2,"145,000",Frags & Co.
+INV-000000500,Shopee,6/2/22 0:00,Siti Jaojah,6285718881866,Leuwiliang,2,"325,000",Frags & Co.
+INV-000000501,Shopee,6/2/22 0:00,Muhammad Nur Al Afif,6282225869396,Jatiasih,2,"275,000",Frags & Co.
+INV-000000502,Shopee,6/2/22 0:00,M Umar ,6281271675412,Kalideres,3,"365,000",Frags & Co.
+INV-000000503,Shopee,6/2/22 0:00,Hijril Mursalin,6282304020842,Cimanggis,2,"195,000",Frags & Co.
+INV-000000504,Shopee,6/2/22 0:00,Krisna  Bp Encam,6285779647525,Tanah Sareal,1,"365,000",Frags & Co.
+INV-000000505,Shopee,6/2/22 0:00,Wahyu Nugraha,6285654924919,Balikpapan Utara,3,"275,000",Frags & Co.
+INV-000000506,Shopee,6/2/22 0:00,Angga Darmawan,6282117763382,Rawalumbu,4,"195,000",Frags & Co.
+INV-000000507,Shopee,6/2/22 0:00,Ricardo,6287878465702,Cengkareng,3,"145,000",Frags & Co.
+INV-000000508,Shopee,6/2/22 0:00,Reza,6281284005521,Pulogadung,1,"145,000",Frags & Co.
+INV-000000508,Shopee,6/2/22 0:00,Reza,6281284005521,Pulogadung,3,"325,000",Frags & Co.
+INV-000000509,Shopee,6/2/22 0:00,Sahat Winston Gultom,628113487638,Minasatene,3,"275,000",Frags & Co.
+INV-000000510,Shopee,6/2/22 0:00,Muhammad Zaenuri,6281346232748,Bawang,1,"275,000",Frags & Co.
+INV-000000511,Shopee,6/2/22 0:00,Muhammad Ramdhani,6281931531079,Beji,3,"145,000",Frags & Co.
+INV-000000512,Shopee,6/2/22 0:00,Quthub Al Faruqi,628988759971,Cakung,1,"365,000",Frags & Co.
+INV-000000513,Shopee,6/2/22 0:00,Arif Nur Iksan,6285349655310,Tanjung Selor,1,"365,000",Frags & Co.
+INV-000000514,Shopee,6/2/22 0:00,Rijal  ,6282216819444,Baregbeg,4,"275,000",Frags & Co.
+INV-000000515,Shopee,6/2/22 0:00,Riza,6282250843625,Delta Pawan,1,"275,000",Frags & Co.
+INV-000000516,Shopee,6/2/22 0:00,Egie Kristanto,6281319074647,Cilandak,4,"275,000",Frags & Co.
+INV-000000517,Shopee,6/2/22 0:00,Tomi ,6282147725537,Denpasar Selatan,1,"195,000",Frags & Co.
+INV-000000518,Shopee,6/2/22 0:00,Christian Nugroho Adi,6282223753330,Pakis,1,"195,000",Frags & Co.
+INV-000000519,Shopee,6/2/22 0:00,Beny,628122454429,Cidadap,1,"365,000",Frags & Co.
+INV-000000519,Shopee,6/2/22 0:00,Beny,628122454429,Cidadap,2,"275,000",Frags & Co.
+INV-000000520,Shopee,7/2/22 0:00,Myachser Arafa,6285692893203,Koja,4,"195,000",Frags & Co.
+INV-000000521,Shopee,6/2/22 0:00,Ajie,6281213261064,Tambora,4,"145,000",Frags & Co.
+INV-000000522,Shopee,7/2/22 0:00,Asdar Azis,6282322228971,Gambir,1,"365,000",Frags & Co.
+INV-000000522,Shopee,7/2/22 0:00,Asdar Azis,6282322228971,Gambir,1,"325,000",Frags & Co.
+INV-000000523,Shopee,7/2/22 0:00,Joko,6282171099593,Kebon Jeruk,2,"365,000",Frags & Co.
+INV-000000524,Shopee,7/2/22 0:00,Sunardi Achmad,62817816372,Cimanggis,2,"325,000",Frags & Co.
+INV-000000524,Shopee,7/2/22 0:00,Sunardi Achmad,62817816372,Cimanggis,2,"275,000",Frags & Co.
+INV-000000525,Shopee,7/2/22 0:00,Hendra,6285361151442,Kuta Alam,4,"325,000",Frags & Co.
+INV-000000526,Shopee,7/2/22 0:00,Ramadhannu Try Utomo,6281808533031,Cempaka Putih,4,"275,000",Frags & Co.
+INV-000000527,Shopee,7/2/22 0:00,Lucky Lukman,6281517008121,Ciomas,4,"145,000",Frags & Co.
+INV-000000528,Shopee,7/2/22 0:00,Iwan  ,6285947252430,Kalideres,1,"325,000",Frags & Co.
+INV-000000529,Shopee,7/2/22 0:00,Fachri  ,6281233869998,Jatisampurna,4,"365,000",Frags & Co.
+INV-000000529,Shopee,7/2/22 0:00,Fachri  ,6281233869998,Jatisampurna,3,"275,000",Frags & Co.
+INV-000000530,Shopee,7/2/22 0:00,R Harun Kasturi,6282379891971,Kota Baru,3,"365,000",Frags & Co.
+INV-000000531,Shopee,7/2/22 0:00,Fani Felani,6285732024020,Cimahi Utara,2,"195,000",Frags & Co.
+INV-000000532,Shopee,7/2/22 0:00,Nur Arifin Irawan,6283137067744,Purwakarta,4,"275,000",Frags & Co.
+INV-000000533,Shopee,7/2/22 0:00,Deonny  ,628116123817,Medan Area,3,"325,000",Frags & Co.
+INV-000000534,Shopee,7/2/22 0:00,Fandi Septiono,6285355811929,Koto Tengah,2,"275,000",Frags & Co.
+INV-000000534,Shopee,7/2/22 0:00,Fandi Septiono,6285355811929,Koto Tengah,4,"365,000",Frags & Co.
+INV-000000535,Shopee,7/2/22 0:00,Dull  ,6282291410669,Hulonthalagi,1,"145,000",Frags & Co.
+INV-000000536,Shopee,7/2/22 0:00,Tommy,6287888504479,Penjaringan,3,"275,000",Frags & Co.
+INV-000000537,Shopee,7/2/22 0:00,Fatahillah  ,6285782541598,Pancoran Mas,1,"325,000",Frags & Co.
+INV-000000538,Shopee,7/2/22 0:00,Robby Rizqiawan,6281997381355,Cipocok Jaya,4,"195,000",Frags & Co.
+INV-000000539,Shopee,7/2/22 0:00,S***D H***M,6************4,Sukmajaya,3,"145,000",Frags & Co.
+INV-000000540,Shopee,7/2/22 0:00,Dimas Haryo Widoyono,6281574451362,Sukaraja,4,"195,000",Frags & Co.
+INV-000000541,Shopee,7/2/22 0:00,Ega Hasbullah,6281214238925,Bekasi Selatan,1,"275,000",Frags & Co.
+INV-000000541,Shopee,7/2/22 0:00,Ega Hasbullah,6281214238925,Bekasi Selatan,3,"365,000",Frags & Co.
+INV-000000542,Shopee,7/2/22 0:00,P****G R******N,6***********1,Cigudeg,1,"365,000",Frags & Co.
+INV-000000543,Shopee,7/2/22 0:00,B**O S*****O,6**********6,Gubeng,4,"325,000",Frags & Co.
+INV-000000543,Shopee,7/2/22 0:00,B**O S*****O,6**********6,Gubeng,4,"365,000",Frags & Co.
+INV-000000544,Shopee,7/2/22 0:00,Fajar Sagita Nanda,6282282171642,Lueng Bata,1,"145,000",Frags & Co.
+INV-000000544,Shopee,7/2/22 0:00,Fajar Sagita Nanda,6282282171642,Lueng Bata,3,"365,000",Frags & Co.
+INV-000000545,Shopee,7/2/22 0:00,Iqbal,6287784316298,Bandung Kidul,1,"325,000",Frags & Co.
+INV-000000546,Shopee,7/2/22 0:00,Roy Muji Ambalat,6285323953288,Biring Kanaya,4,"275,000",Frags & Co.
+INV-000000547,Shopee,7/2/22 0:00,Rahman H Ridwan Mustofa,6281316659567,Cipanas,1,"275,000",Frags & Co.
+INV-000000547,Shopee,7/2/22 0:00,Rahman H Ridwan Mustofa,6281316659567,Cipanas,4,"365,000",Frags & Co.
+INV-000000548,Shopee,7/2/22 0:00,Pratama Putra,6281808715101,Banjarmasin,1,"195,000",Frags & Co.
+INV-000000549,Shopee,7/2/22 0:00,D* H****A L*****G,6***********2,Atambua Kota,3,"275,000",Frags & Co.
+INV-000000550,Shopee,7/2/22 0:00,T***h A*i,62**********0,Bekasi Utara,3,"365,000",Frags & Co.
+INV-000000551,Shopee,7/2/22 0:00,Fas Hendra,628122106848,Setu,1,"325,000",Frags & Co.
+INV-000000552,Shopee,7/2/22 0:00,W*****H A**I S*****A,6***********0,Kalimanah,1,"365,000",Frags & Co.
+INV-000000553,Shopee,6/2/22 0:00,Agil Budi Prakoso,62811882482,Bekasi Barat,3,"275,000",Frags & Co.
+INV-000000553,Shopee,6/2/22 0:00,Agil Budi Prakoso,62811882482,Bekasi Barat,4,"325,000",Frags & Co.
+INV-000000553,Shopee,6/2/22 0:00,Agil Budi Prakoso,62811882482,Bekasi Barat,3,"365,000",Frags & Co.
+INV-000000554,Shopee,6/2/22 0:00,Windy,6281311719789,Bandung,4,"145,000",Frags & Co.
+INV-000000555,Shopee,7/2/22 0:00,Yogi,6285697763674,Jatiasih,1,"325,000",Frags & Co.
+INV-000000556,Shopee,7/2/22 0:00,Ahmad Angga ,6282186847011,Way Serdang,1,"145,000",Frags & Co.
+INV-000000557,Shopee,6/2/22 0:00,Indra Prayoga,62811203203,Batununggal,4,"195,000",Frags & Co.
+INV-000000558,Shopee,6/2/22 0:00,Mzikri,6283181508382,Luhak Nan Duo,1,"195,000",Frags & Co.
+INV-000000558,Shopee,6/2/22 0:00,Mzikri,6283181508382,Luhak Nan Duo,1,"365,000",Frags & Co.
+INV-000000559,Shopee,7/2/22 0:00,A***I S*****A H***B,0**********8,Bulik,1,"325,000",Frags & Co.
+INV-000000560,Shopee,7/2/22 0:00,Sani,6282136965724,Matraman,2,"195,000",Frags & Co.
+INV-000000561,Shopee,7/2/22 0:00,T***R A**L P* ********,6***********9,Sampang,3,"145,000",Frags & Co.
+INV-000000562,Shopee,7/2/22 0:00, Reza Anshari,6285695553311,Cikarang Barat,2,"275,000",Frags & Co.
+INV-000000563,Shopee,6/2/22 0:00,Qudsi,6287864514899,Kramat Jati,3,"145,000",Frags & Co.
+INV-000000564,Shopee,7/2/22 0:00,Dodo,6281213675713,Ciracas,4,"195,000",Frags & Co.
+INV-000000564,Shopee,7/2/22 0:00,Dodo,6281213675713,Ciracas,4,"145,000",Frags & Co.
+INV-000000565,Shopee,6/2/22 0:00,Rudiansyah ,6283159934837,Penjaringan,2,"275,000",Frags & Co.
+INV-000000565,Shopee,6/2/22 0:00,Rudiansyah ,6283159934837,Penjaringan,2,"275,000",Frags & Co.
+INV-000000565,Shopee,6/2/22 0:00,Rudiansyah ,6283159934837,Penjaringan,1,"195,000",Frags & Co.
+INV-000000566,Shopee,6/2/22 0:00,Arief ,62811737488,Singaran Pati,3,"275,000",Frags & Co.
+INV-000000567,Shopee,7/2/22 0:00,F********A R*****N,6***********2,Cikupa,4,"145,000",Frags & Co.
+INV-000000568,Shopee,7/2/22 0:00,M***A L****R S******I,6***********8,Tanjung Priok,2,"325,000",Frags & Co.
+INV-000000568,Shopee,7/2/22 0:00,M***A L****R S******I,6***********8,Tanjung Priok,2,"145,000",Frags & Co.
+INV-000000569,Shopee,8/2/22 0:00,S***N,6***********6,Beji,1,"145,000",Frags & Co.
+INV-000000570,Shopee,8/2/22 0:00,T*A C*****A,0**********4,Pancoran,1,"365,000",Frags & Co.
+INV-000000571,Shopee,8/2/22 0:00,Hadi Susilo Murti,6285789946669,Cimanggis,4,"365,000",Frags & Co.
+INV-000000572,Shopee,8/2/22 0:00,A********N A****N R***M,6***********8,Cimanggung,3,"365,000",Frags & Co.
+INV-000000573,Shopee,8/2/22 0:00,M*S D***I M***S ,0**********2,Ciputat,4,"365,000",Frags & Co.
+INV-000000574,Shopee,8/2/22 0:00,F**N E*****Y,6***********3,Cikarang Pusat,4,"325,000",Frags & Co.
+INV-000000575,Shopee,8/2/22 0:00,Andhika Hendro D,628117407575,Duren Sawit,4,"145,000",Frags & Co.
+INV-000000576,Shopee,7/2/22 0:00,A******N S* P*****A,6***********4,Bekasi Utara,4,"145,000",Frags & Co.
+INV-000000577,Shopee,7/2/22 0:00,Dio Tembakau,6285770823649,Setu,2,"325,000",Frags & Co.
+INV-000000578,Shopee,7/2/22 0:00,Ayub,6281297741442,Ciracas,3,"275,000",Frags & Co.
+INV-000000579,Shopee,7/2/22 0:00,S***H P*****O ****D,6***********5,Karawang Timur,3,"145,000",Frags & Co.
+INV-000000580,Shopee,7/2/22 0:00,Muhammad Reza Hasbi,628119988911,Pamulang,4,"325,000",Frags & Co.
+INV-000000580,Shopee,7/2/22 0:00,Muhammad Reza Hasbi,628119988911,Pamulang,2,"275,000",Frags & Co.
+INV-000000581,Shopee,8/2/22 0:00,G******O,0**********5,Nongsa,3,"275,000",Frags & Co.
+INV-000000582,Shopee,7/2/22 0:00,Angga Wildan Setyawan,6281227560701,Mertoyudan,1,"275,000",Frags & Co.
+INV-000000583,Shopee,7/2/22 0:00,T***R A***R,6***********2,Banguntapan,2,"195,000",Frags & Co.
+INV-000000584,Shopee,7/2/22 0:00,Billy,6281585980772,Kebayoran Lama,1,"195,000",Frags & Co.
+INV-000000585,Shopee,7/2/22 0:00,D**A F*******N,6***********1,Pontianak Kota,1,"325,000",Frags & Co.
+INV-000000586,Shopee,7/2/22 0:00,Abbe,62811557700,Kebayoran Lama,2,"195,000",Frags & Co.
+INV-000000587,Shopee,7/2/22 0:00,G*****N W******O,0**********8,Pamulang,4,"365,000",Frags & Co.
+INV-000000588,Shopee,7/2/22 0:00,Y****D,6***********2,Maje,4,"365,000",Frags & Co.
+INV-000000589,Shopee,7/2/22 0:00,R**I,6***********9,Cengkareng,1,"275,000",Frags & Co.
+INV-000000590,Shopee,7/2/22 0:00,G*****N R********O ****,6***********9,Tulangan,2,"365,000",Frags & Co.
+INV-000000591,Shopee,7/2/22 0:00,Namaskara Akbar Prayoga Yoga,6285213127670,Karangtengah,2,"275,000",Frags & Co.
+INV-000000592,Shopee,7/2/22 0:00,A*E,0***********4,Tambun Selatan,2,"195,000",Frags & Co.
+INV-000000593,Shopee,7/2/22 0:00,F***A M*****D F***I,6***********0,Garut Kota,4,"145,000",Frags & Co.
+INV-000000594,Shopee,7/2/22 0:00,Juandria A Kusuma,6281349350071,Semitau,2,"195,000",Frags & Co.
+INV-000000595,Shopee,7/2/22 0:00,F**Z G******A,6***********4,Cikarang Selatan,3,"365,000",Frags & Co.
+INV-000000596,Shopee,7/2/22 0:00,M******A K*****A S****A,6***********2,Kalasan,4,"195,000",Frags & Co.
+INV-000000597,Shopee,7/2/22 0:00,S***O,0**********3,Denpasar Selatan,1,"325,000",Frags & Co.
+INV-000000598,Shopee,8/2/22 0:00,A***R S******O,6***********5,Telukjambe Timur,4,"325,000",Frags & Co.
+INV-000000599,Shopee,8/2/22 0:00,A***A,6***********6,Boja,4,"195,000",Frags & Co.
+INV-000000600,Shopee,8/2/22 0:00,A**S N*R,6***********1,Serang Baru,3,"195,000",Frags & Co.
+INV-000000601,Shopee,8/2/22 0:00,Rifky,6281366538155,Kembangan,2,"195,000",Frags & Co.
+INV-000000602,Shopee,8/2/22 0:00,S**I H****A,0**********3,Plaju,1,"365,000",Frags & Co.
+INV-000000603,Shopee,8/2/22 0:00,I****N F***I,6***********2,Lubuk Alung,3,"275,000",Frags & Co.
+INV-000000603,Shopee,8/2/22 0:00,I****N F***I,6***********2,Lubuk Alung,2,"275,000",Frags & Co.
+INV-000000604,Shopee,8/2/22 0:00,A****R G******H P***A ****,6***********5,Sumber Sari,1,"325,000",Frags & Co.
+INV-000000605,Shopee,8/2/22 0:00,Bina Pratama,6281268581211,Serpong,4,"365,000",Frags & Co.
+INV-000000606,Shopee,8/2/22 0:00,Esa Eriza Akbar,6281289995388,Bekasi Timur,1,"195,000",Frags & Co.
+INV-000000606,Shopee,8/2/22 0:00,Esa Eriza Akbar,6281289995388,Bekasi Timur,1,"145,000",Frags & Co.
+INV-000000607,Shopee,8/2/22 0:00,Ulfa Fauzia,6281291539603,Sukarame,4,"365,000",Frags & Co.
+INV-000000608,Shopee,8/2/22 0:00,Said Shagaf Alatas,61468542000,Batam Kota,4,"325,000",Frags & Co.
+INV-000000609,Shopee,8/2/22 0:00,Alvin Ilham Dharmawan,628561500151,Ciputat Timur,2,"145,000",Frags & Co.
+INV-000000609,Shopee,8/2/22 0:00,Alvin Ilham Dharmawan,628561500151,Ciputat Timur,2,"275,000",Frags & Co.
+INV-000000610,Shopee,8/2/22 0:00,Rahman,6281291996485,Pasar Minggu,2,"195,000",Frags & Co.
+INV-000000611,Shopee,8/2/22 0:00,Fani  ,6281388000110,Palmerah,2,"275,000",Frags & Co.
+INV-000000611,Shopee,8/2/22 0:00,Fani  ,6281388000110,Palmerah,2,"325,000",Frags & Co.
+INV-000000612,Shopee,8/2/22 0:00,Fajar Bimantoro ,6282122043407,Cimanggis,4,"145,000",Frags & Co.
+INV-000000613,Shopee,8/2/22 0:00,Rivany  ,91338227371,Kendari Barat,1,"325,000",Frags & Co.
+INV-000000614,Shopee,8/2/22 0:00,Deski Ramanda,6281292895367,Jasinga,2,"145,000",Frags & Co.
+INV-000000615,Shopee,8/2/22 0:00,Heru  ,6282254109318,Tayan Hilir,2,"365,000",Frags & Co.
+INV-000000616,Shopee,8/2/22 0:00,Ardiansyah,6287782390788,Cilandak,1,"195,000",Frags & Co.
+INV-000000617,Shopee,8/2/22 0:00,Albar Malik,6285782711153,Kebon Jeruk,2,"365,000",Frags & Co.
+INV-000000617,Shopee,8/2/22 0:00,Albar Malik,6285782711153,Kebon Jeruk,1,"365,000",Frags & Co.
+INV-000000618,Shopee,8/2/22 0:00,Atok Urohman,6281350200149,Murung Pudak,1,"325,000",Frags & Co.
+INV-000000619,Shopee,8/2/22 0:00,Abdusalam,6281271087041,Tanjungpandan,4,"195,000",Frags & Co.
+INV-000000619,Shopee,8/2/22 0:00,Abdusalam,6281271087041,Tanjungpandan,3,"145,000",Frags & Co.
+INV-000000620,Shopee,8/2/22 0:00,Taufiq,6285801911319,Duren Sawit,4,"145,000",Frags & Co.
+INV-000000621,Shopee,8/2/22 0:00,Fajri,6281295540152,Purwakarta,3,"275,000",Frags & Co.
+INV-000000621,Shopee,8/2/22 0:00,Fajri,6281295540152,Purwakarta,3,"145,000",Frags & Co.
+INV-000000622,Shopee,8/2/22 0:00,Theo Sianipar,6281908080937,Cilandak,3,"325,000",Frags & Co.
+INV-000000623,Shopee,8/2/22 0:00,Aditya Martion,6281357877829,Purwokerto Timur,2,"365,000",Frags & Co.
+INV-000000624,Shopee,8/2/22 0:00,Ari Kurniawan,6283876692348,Kramat Jati,4,"365,000",Frags & Co.
+INV-000000625,Shopee,8/2/22 0:00,Edwin,6285813473305,Cinere,3,"365,000",Frags & Co.
+INV-000000626,Shopee,8/2/22 0:00,Farizha Putra,628111683694,Duren Sawit,1,"195,000",Frags & Co.
+INV-000000627,Shopee,8/2/22 0:00,Hans,6281337552070,Pasar Minggu,2,"145,000",Frags & Co.
+INV-000000627,Shopee,8/2/22 0:00,Hans,6281337552070,Pasar Minggu,4,"325,000",Frags & Co.
+INV-000000628,Shopee,8/2/22 0:00,M******D R***I,6***********0,Jagakarsa,3,"195,000",Frags & Co.
+INV-000000629,Shopee,8/2/22 0:00,Ivan Jones,6281905225944,Tebet,1,"275,000",Frags & Co.
+INV-000000630,Shopee,8/2/22 0:00,Syapril  ,6287897347027,Kemuning,4,"325,000",Frags & Co.
+INV-000000631,Shopee,8/2/22 0:00,Andri Setiadi  Mama Kayla,62811846719,Bekasi Timur,4,"325,000",Frags & Co.
+INV-000000631,Shopee,8/2/22 0:00,Andri Setiadi  Mama Kayla,62811846719,Bekasi Timur,2,"325,000",Frags & Co.
+INV-000000631,Shopee,8/2/22 0:00,Andri Setiadi  Mama Kayla,62811846719,Bekasi Timur,4,"365,000",Frags & Co.
+INV-000000632,Shopee,8/2/22 0:00,Eridani ,628119892556,Cinere,2,"325,000",Frags & Co.
+INV-000000632,Shopee,8/2/22 0:00,Eridani ,628119892556,Cinere,3,"145,000",Frags & Co.
+INV-000000633,Shopee,8/2/22 0:00,A**F I******I,6***********2,Bogor Tengah,2,"325,000",Frags & Co.
+INV-000000634,Shopee,8/2/22 0:00,T*****A R*******A H********G,6***********2,Tambaksari,1,"365,000",Frags & Co.
+INV-000000635,Shopee,8/2/22 0:00,Mohd Azzan Raiz,6282260947951,Bengkalis,2,"325,000",Frags & Co.
+INV-000000636,Shopee,8/2/22 0:00,B*********D,6***********8,Seberang Ulu Ii,1,"275,000",Frags & Co.
+INV-000000636,Shopee,8/2/22 0:00,B*********D,6***********8,Seberang Ulu Ii,2,"275,000",Frags & Co.
+INV-000000637,Shopee,8/2/22 0:00,Mahardika,6281318526360,Pancoran,1,"145,000",Frags & Co.
+INV-000000638,Shopee,8/2/22 0:00,Wahyu Multazam,6281289976788,Pamulang,2,"195,000",Frags & Co.
+INV-000000639,Shopee,8/2/22 0:00,R****I I****D,6************1,Harau,4,"365,000",Frags & Co.
+INV-000000640,Shopee,8/2/22 0:00,M*****D Y**I S,6***********7,Rancasari,3,"145,000",Frags & Co.
+INV-000000641,Shopee,8/2/22 0:00,Ardhynata,628124260009,Pondok Gede,2,"325,000",Frags & Co.
+INV-000000641,Shopee,8/2/22 0:00,Ardhynata,628124260009,Pondok Gede,4,"365,000",Frags & Co.
+INV-000000642,Shopee,8/2/22 0:00,R***Y P*****I,6***********0,Medan Denai,4,"195,000",Frags & Co.
+INV-000000643,Shopee,8/2/22 0:00,Radit,62818764545,Tebet,1,"365,000",Frags & Co.
+INV-000000644,Shopee,8/2/22 0:00,M**O,6***********9,Muara Enim,1,"365,000",Frags & Co.
+INV-000000645,Shopee,8/2/22 0:00,A******A,6***********5,Samarinda Ulu,4,"195,000",Frags & Co.
+INV-000000646,Shopee,8/2/22 0:00,F****L Z****N,6************8,Siantar Martoba,2,"195,000",Frags & Co.
+INV-000000647,Shopee,9/2/22 0:00,Tri Yoga,6281298255329,Karawaci,1,"325,000",Frags & Co.
+INV-000000648,Shopee,9/2/22 0:00,A**N I*****M,6***********3,Wanasari,1,"195,000",Frags & Co.
+INV-000000649,Shopee,9/2/22 0:00,Farrell Lazawardy,6281330747322,Tuban,1,"195,000",Frags & Co.
+INV-000000650,Shopee,8/2/22 0:00,M Abdul Rahman,6285201131649,Jatisampurna,1,"275,000",Frags & Co.
+INV-000000651,Shopee,9/2/22 0:00,M Y***R A* F***I,0**********4,Megamendung,2,"275,000",Frags & Co.
+INV-000000652,Shopee,9/2/22 0:00,K** G*******A  ***********,6***********4,Kalideres,1,"275,000",Frags & Co.
+INV-000000653,Shopee,9/2/22 0:00,Bilal,6287812186136,Tambaksari,1,"195,000",Frags & Co.
+INV-000000654,Shopee,9/2/22 0:00,A***D R**A,6***********8,Ilir Timur I,4,"275,000",Frags & Co.
+INV-000000655,Shopee,9/2/22 0:00,A*N,6***********7,Ciracas,4,"195,000",Frags & Co.
+INV-000000656,Shopee,8/2/22 0:00,C*****L A***R H*****T *****,6***********2,Ciputat,1,"275,000",Frags & Co.
+INV-000000656,Shopee,8/2/22 0:00,C*****L A***R H*****T *****,6***********2,Ciputat,3,"365,000",Frags & Co.
+INV-000000657,Shopee,8/2/22 0:00,A******H A**A,0*********0,Sukabumi,1,"365,000",Frags & Co.
+INV-000000658,Shopee,8/2/22 0:00,T*I T***N *****,6***********2,Jatinangor,4,"195,000",Frags & Co.
+INV-000000659,Shopee,8/2/22 0:00,I***S F******H,0**********3,Ciledug,3,"365,000",Frags & Co.
+INV-000000660,Shopee,8/2/22 0:00,S***I A**A N******H,6***********9,Banjarmasin Utara,3,"195,000",Frags & Co.
+INV-000000661,Shopee,8/2/22 0:00,S**I N**********I,6***********9,Bekasi Barat,1,"365,000",Frags & Co.
+INV-000000662,Shopee,8/2/22 0:00,Ilham Iqbalurramadhan,6281232868694,Bululawang,4,"365,000",Frags & Co.
+INV-000000663,Shopee,8/2/22 0:00,E**N,6***********4,Medan Johor,4,"195,000",Frags & Co.
+INV-000000664,Shopee,8/2/22 0:00,A*U,6***********7,Tanjung Karang Timur,3,"325,000",Frags & Co.
+INV-000000665,Shopee,8/2/22 0:00,D***Y F****N,0**********8,Tegalsari,1,"365,000",Frags & Co.
+INV-000000666,Shopee,8/2/22 0:00,Ferdiansyah,6281281880880,Jagakarsa,2,"275,000",Frags & Co.
+INV-000000667,Shopee,8/2/22 0:00,R****A B***U,6***********4,Palmerah,2,"325,000",Frags & Co.
+INV-000000668,Shopee,8/2/22 0:00,H**********I,6**********7,Pontianak Timur,4,"195,000",Frags & Co.
+INV-000000669,Shopee,8/2/22 0:00,N***N B*******H,6***********8,Sukolilo,2,"325,000",Frags & Co.
+INV-000000670,Shopee,8/2/22 0:00,A*I,0***********9,Tapos,4,"145,000",Frags & Co.
+INV-000000671,Shopee,8/2/22 0:00,H***F C***R F*******O,6***********8,Wonokromo,4,"145,000",Frags & Co.
+INV-000000672,Shopee,8/2/22 0:00,B***A N***A,6***********8,Menganti,4,"365,000",Frags & Co.
+INV-000000673,Shopee,8/2/22 0:00,L****I,6***********0,Lengkong,2,"365,000",Frags & Co.
+INV-000000674,Shopee,8/2/22 0:00,M******D A**I R*******I,0**********9,Depok,4,"275,000",Frags & Co.
+INV-000000675,Shopee,8/2/22 0:00,G**A I****R S******I,6***********7,Bekasi Barat,3,"325,000",Frags & Co.
+INV-000000676,Shopee,8/2/22 0:00,Y***S S*******O,6***********8,Arcamanik,1,"145,000",Frags & Co.
+INV-000000677,Shopee,8/2/22 0:00,M*****N R******O,6***********8,Cikarang Barat,1,"365,000",Frags & Co.
+INV-000000678,Shopee,8/2/22 0:00,Jofian,6281224442008,Pasar Minggu,4,"325,000",Frags & Co.
+INV-000000679,Shopee,9/2/22 0:00,S***S Y**I P*****I,6***********8,Bojonggede,1,"365,000",Frags & Co.
+INV-000000680,Shopee,5/2/22 0:00,Musclebound Konsinyasi,2122472405,Matraman,2,"365,000",Frags & Co.
+INV-000000681,Shopee,9/2/22 0:00,J***Y B*******A,6***********3,Purwakarta,2,"145,000",Frags & Co.
+INV-000000682,Shopee,9/2/22 0:00,M Yunus,6285750431108,Suhaid,1,"145,000",Frags & Co.
+INV-000000683,Shopee,9/2/22 0:00,Rio Pradana,6281297331364,Gambir,3,"325,000",Frags & Co.
+INV-000000684,Shopee,9/2/22 0:00,Dadang Surya Wijaya,6287775825465,Cilincing,3,"275,000",Frags & Co.
+INV-000000685,Shopee,9/2/22 0:00,Ahmad Romli,628811977320,Pancoran,3,"145,000",Frags & Co.
+INV-000000685,Shopee,9/2/22 0:00,Ahmad Romli,628811977320,Pancoran,4,"275,000",Frags & Co.
+INV-000000686,Shopee,9/2/22 0:00,Ejik ,6281360131393,Medan Sunggal,3,"275,000",Frags & Co.
+INV-000000687,Shopee,9/2/22 0:00,Ichsan Wahyudi,62817120926,Serpong Utara,2,"365,000",Frags & Co.
+INV-000000688,Shopee,9/2/22 0:00,Dinu  ,6281263370684,Medan Maimun,4,"325,000",Frags & Co.
+INV-000000689,Shopee,9/2/22 0:00,Muhammad Aldino,6282216489298,Menteng,1,"365,000",Frags & Co.
+INV-000000689,Shopee,9/2/22 0:00,Muhammad Aldino,6282216489298,Menteng,3,"145,000",Frags & Co.
+INV-000000690,Shopee,9/2/22 0:00,R**Y,6***********8,Tambun Selatan,3,"145,000",Frags & Co.
+INV-000000691,Shopee,9/2/22 0:00,M******D A***R ****,6***********8,Cimaung,2,"275,000",Frags & Co.
+INV-000000692,Shopee,9/2/22 0:00,Andi Agfal Pw ,628114511313,Tapos,1,"195,000",Frags & Co.
+INV-000000693,Shopee,9/2/22 0:00,Nursidik,6282110887321,Koja,1,"145,000",Frags & Co.
+INV-000000694,Shopee,9/2/22 0:00,S************M,6***********6,Caringin,4,"145,000",Frags & Co.
+INV-000000695,Shopee,9/2/22 0:00,Dwi Mulyono,628122981239,Pasar Kliwon,2,"275,000",Frags & Co.
+INV-000000695,Shopee,9/2/22 0:00,Dwi Mulyono,628122981239,Pasar Kliwon,2,"365,000",Frags & Co.
+INV-000000696,Shopee,9/2/22 0:00,Chavit Al Muzzammil,6287711065184,Pondok Melati,4,"145,000",Frags & Co.
+INV-000000697,Shopee,9/2/22 0:00,Citra  ,6282217257857,Babelan,4,"275,000",Frags & Co.
+INV-000000697,Shopee,9/2/22 0:00,Citra  ,6282217257857,Babelan,4,"195,000",Frags & Co.
+INV-000000698,Shopee,9/2/22 0:00,Hzamzamszhjoki,6281350000464,Bandung Kulon,1,"195,000",Frags & Co.
+INV-000000698,Shopee,9/2/22 0:00,Hzamzamszhjoki,6281350000464,Bandung Kulon,1,"325,000",Frags & Co.
+INV-000000699,Shopee,9/2/22 0:00,Prasetya Muhammad Sulaiman,6282211366825,Makasar,4,"145,000",Frags & Co.
+INV-000000699,Shopee,9/2/22 0:00,Prasetya Muhammad Sulaiman,6282211366825,Makasar,1,"275,000",Frags & Co.
+INV-000000700,Shopee,9/2/22 0:00,Ahmad Shafaat,6287755774460,Giri,1,"275,000",Frags & Co.
+INV-000000701,Shopee,9/2/22 0:00,Hindra,628988988794,Kebon Jeruk,4,"145,000",Frags & Co.
+INV-000000702,Shopee,9/2/22 0:00,Fuad,6285343689267,Tamalanrea,4,"325,000",Frags & Co.
+INV-000000703,Shopee,9/2/22 0:00,Babah Pamungkas,6289530737120,Pulo Gadung,3,"275,000",Frags & Co.
+INV-000000704,Shopee,9/2/22 0:00,Dimas Wahyu R,6287788147618,Bekasi Selatan,2,"195,000",Frags & Co.
+INV-000000704,Shopee,9/2/22 0:00,Dimas Wahyu R,6287788147618,Bekasi Selatan,4,"325,000",Frags & Co.
+INV-000000705,Shopee,9/2/22 0:00,Arcanleo Joellio Regency,6283818930380,Ciseeng,2,"275,000",Frags & Co.
+INV-000000706,Shopee,9/2/22 0:00,Ricky Lie,6281291105650,Pancoran Mas,3,"325,000",Frags & Co.
+INV-000000707,Shopee,9/2/22 0:00,Budiono Halim,6281234140278,Kotawaringin Timur,2,"325,000",Frags & Co.
+INV-000000708,Shopee,9/2/22 0:00,Andi Muhammad Rizqi Alkautsar Azwar,6281338854016,Benda,3,"365,000",Frags & Co.
+INV-000000709,Shopee,9/2/22 0:00,S***I R*****I,0**********5,Cilandak,4,"275,000",Frags & Co.
+INV-000000710,Shopee,9/2/22 0:00,Alif Ibra,6281770232593,Ubud,4,"145,000",Frags & Co.
+INV-000000711,Shopee,9/2/22 0:00,Risad,6281213774428,Bekasi Selatan,4,"325,000",Frags & Co.
+INV-000000712,Shopee,9/2/22 0:00,Mozart Mongi,628157670000,Pedurungan,3,"195,000",Frags & Co.
+INV-000000713,Shopee,9/2/22 0:00,Musliadi,6282294887829,Sawang,2,"275,000",Frags & Co.
+INV-000000715,Shopee,9/2/22 0:00,Rand,6281319792662,Tanah Abang,3,"365,000",Frags & Co.
+INV-000000715,Shopee,9/2/22 0:00,Rand,6281319792662,Tanah Abang,2,"365,000",Frags & Co.
+INV-000000716,Shopee,9/2/22 0:00,Zed Alamri,6282187297256,Kramat Jati,3,"365,000",Frags & Co.
+INV-000000717,Shopee,9/2/22 0:00,Reza Sumeninggalih,6285717187488,Pasar Rebo,1,"195,000",Frags & Co.
+INV-000000718,Shopee,9/2/22 0:00, Dion Arindra,6281808755559,Tebet,4,"365,000",Frags & Co.
+INV-000000719,Shopee,9/2/22 0:00,Prima P,6285778904573,Curug,2,"275,000",Frags & Co.
+INV-000000719,Shopee,9/2/22 0:00,Prima P,6285778904573,Curug,4,"275,000",Frags & Co.
+INV-000000720,Shopee,9/2/22 0:00,Ary Yulianto,6281225016315,Pasar Kliwon,2,"195,000",Frags & Co.
+INV-000000721,Shopee,9/2/22 0:00,Johnny Siagian,628127368383,Enggal,4,"325,000",Frags & Co.
+INV-000000722,Shopee,9/2/22 0:00,T***********O,6***********5,Rumbai,1,"195,000",Frags & Co.
+INV-000000723,Shopee,9/2/22 0:00,F****A N**A S***I,6***********3,Babelan,3,"275,000",Frags & Co.
+INV-000000724,Shopee,9/2/22 0:00,T***R P*****A,6***********6,Cidahu,2,"275,000",Frags & Co.
+INV-000000725,Shopee,9/2/22 0:00,Saeful Hakim,6285368999990,Lembang,4,"365,000",Frags & Co.
+INV-000000726,Shopee,9/2/22 0:00,Ali,6285838202409,Sukarame,2,"365,000",Frags & Co.
+INV-000000727,Shopee,9/2/22 0:00,L***I F*****S,6***********2,Jampang Kulon,3,"145,000",Frags & Co.
+INV-000000728,Shopee,9/2/22 0:00,Z******Y M*****I,6***********7,Sungai Kunjang,3,"145,000",Frags & Co.
+INV-000000728,Shopee,9/2/22 0:00,Z******Y M*****I,6***********7,Sungai Kunjang,1,"145,000",Frags & Co.
+INV-000000729,Shopee,9/2/22 0:00,Bagus Armin,6282249009090,Duren Sawit,4,"365,000",Frags & Co.
+INV-000000730,Shopee,9/2/22 0:00,Fadli,6285811934311,Jagakarsa,1,"365,000",Frags & Co.
+INV-000000731,Shopee,10/2/22 0:00,Ardha Satwika,6281380457868,Mandau,3,"365,000",Frags & Co.
+INV-000000731,Shopee,10/2/22 0:00,Ardha Satwika,6281380457868,Mandau,2,"275,000",Frags & Co.
+INV-000000732,Shopee,10/2/22 0:00,S*****I,6***********6,Cikarang Selatan,1,"365,000",Frags & Co.
+INV-000000733,Shopee,10/2/22 0:00,Z*******A,6***********0,Telanaipura,1,"275,000",Frags & Co.
+INV-000000734,Shopee,10/2/22 0:00,A*******U L******,0**********9,Cilincing,2,"145,000",Frags & Co.
+INV-000000735,Shopee,10/2/22 0:00,Jordan,6281387453010,Kelapa Dua,1,"145,000",Frags & Co.
+INV-000000736,Shopee,10/2/22 0:00,Tiwi Ayu,6281238175989,Gunung Putri,2,"145,000",Frags & Co.
+INV-000000736,Shopee,10/2/22 0:00,Tiwi Ayu,6281238175989,Gunung Putri,4,"195,000",Frags & Co.
+INV-000000736,Shopee,10/2/22 0:00,Tiwi Ayu,6281238175989,Gunung Putri,2,"195,000",Frags & Co.
+INV-000000736,Shopee,10/2/22 0:00,Tiwi Ayu,6281238175989,Gunung Putri,4,"325,000",Frags & Co.
+INV-000000737,Shopee,10/2/22 0:00,F******O A*S,6***********2,Payakumbuh Barat,2,"325,000",Frags & Co.
+INV-000000737,Shopee,10/2/22 0:00,F******O A*S,6***********2,Payakumbuh Barat,3,"325,000",Frags & Co.
+INV-000000737,Shopee,10/2/22 0:00,F******O A*S,6***********2,Payakumbuh Barat,3,"195,000",Frags & Co.
+INV-000000737,Shopee,10/2/22 0:00,F******O A*S,6***********2,Payakumbuh Barat,4,"195,000",Frags & Co.
+INV-000000738,Shopee,10/2/22 0:00,B***L R****N A*I N*****O,6***********2,Serengan,4,"325,000",Frags & Co.
+INV-000000739,Shopee,10/2/22 0:00,I*U M**I S*******I,6***********0,Cibiru,3,"325,000",Frags & Co.
+INV-000000740,Shopee,10/2/22 0:00,S*****L L*,6***********5,Cilincing,4,"365,000",Frags & Co.
+INV-000000740,Shopee,10/2/22 0:00,S*****L L*,6***********5,Cilincing,2,"325,000",Frags & Co.
+INV-000000741,Shopee,10/2/22 0:00,C*****N Y**A,6***********1,Kibin,2,"365,000",Frags & Co.
+INV-000000742,Shopee,10/2/22 0:00,D****S I**I,6***********0,Mampang Prapatan,3,"275,000",Frags & Co.
+INV-000000743,Shopee,10/2/22 0:00,C****N,6***********6,Labuhan Ratu,1,"195,000",Frags & Co.
+INV-000000744,Shopee,10/2/22 0:00,B***S D*I S*****O,6***********8,Belik,2,"325,000",Frags & Co.
+INV-000000745,Shopee,10/2/22 0:00,F***R,6***********8,Sawah Besar,4,"195,000",Frags & Co.
+INV-000000746,Shopee,9/2/22 0:00,Ronal Saputra,6281395929363,Margahayu,1,"195,000",Frags & Co.
+INV-000000747,Shopee,9/2/22 0:00,C***A,6***********0,Cimahi Tengah,1,"195,000",Frags & Co.
+INV-000000748,Shopee,9/2/22 0:00,H*******L J****H,6***********1,Medan Selayang,2,"275,000",Frags & Co.
+INV-000000749,Shopee,9/2/22 0:00,R***L K*******N,6***********2,Muara Sungkai,1,"145,000",Frags & Co.
+INV-000000750,Shopee,9/2/22 0:00,Yoga Prawira,628562571857,Rawalumbu,3,"195,000",Frags & Co.
+INV-000000751,Shopee,9/2/22 0:00,A*I,6***********7,Cilandak,2,"145,000",Frags & Co.
+INV-000000752,Shopee,9/2/22 0:00,B****N P*********O,0**********5,Kalasan,2,"365,000",Frags & Co.
+INV-000000753,Shopee,9/2/22 0:00,Untung Wibowo Vira Mutia,62818795669,Pondok Gede,1,"325,000",Frags & Co.
+INV-000000754,Shopee,9/2/22 0:00,Resty,628111949440,Kelapa Dua,3,"145,000",Frags & Co.
+INV-000000755,Shopee,9/2/22 0:00,Ilham Maulana Sidiq,6281294784247,Karawang Timur,3,"195,000",Frags & Co.
+INV-000000756,Shopee,9/2/22 0:00,D**I N****N,6***********2,Pahae Jae,3,"145,000",Frags & Co.
+INV-000000757,Shopee,9/2/22 0:00,B***S F*****A,6***********0,Sei Sungai Kunyit,4,"145,000",Frags & Co.
+INV-000000758,Shopee,9/2/22 0:00,M******D R***O A*****R,6***********8,Sagulung,4,"365,000",Frags & Co.
+INV-000000759,Shopee,9/2/22 0:00,I***I,6***********7,Semarang Tengah,3,"195,000",Frags & Co.
+INV-000000760,Shopee,9/2/22 0:00,Marita,6281290165377,Pancoran Mas,3,"195,000",Frags & Co.
+INV-000000761,Shopee,9/2/22 0:00,A**I A**M C***A,6***********3,Balikpapan Timur,1,"325,000",Frags & Co.
+INV-000000762,Shopee,9/2/22 0:00,H***A,6***********4,Purwakarta,2,"145,000",Frags & Co.
+INV-000000763,Shopee,9/2/22 0:00,Nugrah Mukti Ananto,6285257210782,Ciputat Timur,3,"365,000",Frags & Co.
+INV-000000764,Shopee,9/2/22 0:00,Sonny Afiandy Atmanagara,628174185335,Tebet,4,"145,000",Frags & Co.
+INV-000000765,Shopee,9/2/22 0:00,K*****A,6***********0,Gerunggang,1,"325,000",Frags & Co.
+INV-000000766,Shopee,10/2/22 0:00,Ihsan Adi,6281331375022,Pabean Cantikan,1,"145,000",Frags & Co.
+INV-000000767,Shopee,10/2/22 0:00,Heru Abidhia Wijaya,6281380557373,Kramat Jati,1,"275,000",Frags & Co.
+INV-000000768,Shopee,10/2/22 0:00,Herri Wijaya,6281364714111,Tanjungpinang Barat,4,"145,000",Frags & Co.
+INV-000000769,Shopee,10/2/22 0:00,Dimas Sastro,6289652289831,Cikarang Selatan,3,"275,000",Frags & Co.
+INV-000000770,Shopee,10/2/22 0:00,Firman Syah Putra,6282114795498,Cisaat,3,"275,000",Frags & Co.
+INV-000000771,Shopee,10/2/22 0:00,Ardhy Putra,628170726993,Pesanggrahan,2,"145,000",Frags & Co.
+INV-000000772,Shopee,10/2/22 0:00,Andy Widodo,6285210054125,Cikupa,3,"275,000",Frags & Co.
+INV-000000773,Shopee,10/2/22 0:00,Benny Syahbana,628111629084,Kebayoran Lama,3,"195,000",Frags & Co.
+INV-000000774,Shopee,10/2/22 0:00,Moh Miftahur Rohman,6282132805755,Jombang,1,"325,000",Frags & Co.
+INV-000000775,Shopee,10/2/22 0:00,Sakoni ,6281335517211,Sekarbela,2,"325,000",Frags & Co.
+INV-000000776,Shopee,10/2/22 0:00,Abu Hanif,6285365019874,Balikpapan Kota,3,"325,000",Frags & Co.
+INV-000000777,Shopee,10/2/22 0:00,Heru Susilo,628128808956,Kiara Condong,4,"195,000",Frags & Co.
+INV-000000778,Shopee,10/2/22 0:00,Anastasius Melvin Junior,6282250380738,Pagedangan,3,"275,000",Frags & Co.
+INV-000000779,Shopee,10/2/22 0:00,Mbima Habibi A,6281281597116,Delta Pawan,1,"365,000",Frags & Co.
+INV-000000779,Shopee,10/2/22 0:00,Mbima Habibi A,6281281597116,Delta Pawan,4,"275,000",Frags & Co.
+INV-000000780,Shopee,10/2/22 0:00,Dwiky,6282277228695,Tanjung Beringin,1,"145,000",Frags & Co.
+INV-000000781,Shopee,10/2/22 0:00,D***A A*******N,6***********7,Astana Anyar,3,"325,000",Frags & Co.
+INV-000000782,Shopee,10/2/22 0:00,Joko Purwanto,6285156646807,Kelapa Gading,4,"275,000",Frags & Co.
+INV-000000783,Shopee,10/2/22 0:00,Stefany Nahan,6287886659594,Kebayoran Baru,2,"365,000",Frags & Co.
+INV-000000784,Shopee,10/2/22 0:00,M*****Y,6***********5,Pamekasan,2,"145,000",Frags & Co.
+INV-000000785,Shopee,10/2/22 0:00,Teguh Ari,6285710416250,Bekasi Utara,4,"195,000",Frags & Co.
+INV-000000786,Shopee,10/2/22 0:00,H****N,6**********6,Medan Kota,4,"195,000",Frags & Co.
+INV-000000787,Shopee,10/2/22 0:00,Alex,6282223826996,Cinere,1,"365,000",Frags & Co.
+INV-000000788,Shopee,10/2/22 0:00,V****R,6**********8,Percut Sei Tuan,4,"145,000",Frags & Co.
+INV-000000789,Shopee,10/2/22 0:00,Raden Pujiadi Sujana,6281294402342,Banyumanik,1,"325,000",Frags & Co.
+INV-000000790,Shopee,10/2/22 0:00,B***N A****A,6***********7,Banjarmasin Barat,3,"275,000",Frags & Co.
+INV-000000791,Shopee,10/2/22 0:00,Ahmad Rian,6285921304010,Pasar Minggu,1,"145,000",Frags & Co.
+INV-000000792,Shopee,10/2/22 0:00,Tatwanto Prastistho,628127582530,Cimanggis,4,"195,000",Frags & Co.
+INV-000000792,Shopee,10/2/22 0:00,Tatwanto Prastistho,628127582530,Cimanggis,4,"365,000",Frags & Co.
+INV-000000793,Shopee,10/2/22 0:00,Ahmad Fauzi,6283822802444,Lembang,3,"365,000",Frags & Co.
+INV-000000794,Shopee,10/2/22 0:00,S***A N****S,6***********8,Batu Aji,4,"275,000",Frags & Co.
+INV-000000795,Shopee,10/2/22 0:00,D**I S****N,6***********2,Makasar,4,"365,000",Frags & Co.
+INV-000000796,Shopee,10/2/22 0:00,A***A Y***A P*****A,6***********3,Cempaka,2,"145,000",Frags & Co.
+INV-000000797,Shopee,10/2/22 0:00,S*****N M*****A R,6***********6,Singosari,2,"365,000",Frags & Co.
+INV-000000798,Shopee,10/2/22 0:00,Ali,6281802052205,Taman Sari,3,"325,000",Frags & Co.
+INV-000000799,Shopee,10/2/22 0:00,R***I A*****N *** ,6***********0,Pusakanagara,1,"275,000",Frags & Co.
+INV-000000800,Shopee,10/2/22 0:00,Abdul,6282338165442,Palu Selatan,2,"145,000",Frags & Co.
+INV-000000801,Shopee,10/2/22 0:00,F***I K*******N,0**********6,Muara Jawa,1,"325,000",Frags & Co.
+INV-000000802,Shopee,10/2/22 0:00,Y***F A**I,6***********0,Randudongkal,4,"145,000",Frags & Co.
+INV-000000803,Shopee,10/2/22 0:00,A*I,6***********9,Rajeg,2,"145,000",Frags & Co.
+INV-000000804,Shopee,10/2/22 0:00,F***I S*****F,0**********4,Tarogong Kidul,3,"365,000",Frags & Co.
+INV-000000805,Shopee,10/2/22 0:00,Boni,6281313894777,Sawah Besar,3,"325,000",Frags & Co.
+INV-000000806,Shopee,10/2/22 0:00,B***S P**S,6***********1,Makasar,1,"145,000",Frags & Co.
+INV-000000807,Shopee,10/2/22 0:00,T****O S***M H*******O,6***********9,Grogol Petamburan,2,"365,000",Frags & Co.
+INV-000000808,Shopee,10/2/22 0:00,Aldon Yudo,6282111126891,Cakung,4,"325,000",Frags & Co.
+INV-000000809,Shopee,10/2/22 0:00,Akbari Ikhsan,6289622944384,Larangan,4,"195,000",Frags & Co.
+INV-000000810,Shopee,10/2/22 0:00,Nicko ,6281299137006,Karang Bahagia,4,"275,000",Frags & Co.
+INV-000000811,Shopee,10/2/22 0:00,Dedy Eka Nursetyawan,6281180818096,Ciputat Timur,3,"325,000",Frags & Co.
+INV-000000812,Shopee,10/2/22 0:00,Imam Martdani,6281293682118,Purwasari,3,"145,000",Frags & Co.
+INV-000000813,Shopee,10/2/22 0:00,I***A R*****A,6***********9,Jambi Selatan,3,"145,000",Frags & Co.
+INV-000000814,Shopee,10/2/22 0:00,Adhi,6282370210019,Setiabudi,2,"275,000",Frags & Co.
+INV-000000815,Shopee,11/2/22 0:00,J*****A H*****I,6***********8,Sei Sungai Beduk,3,"195,000",Frags & Co.
+INV-000000816,Shopee,11/2/22 0:00,Angelina,6285725406008,Pondok Melati,2,"325,000",Frags & Co.
+INV-000000817,Shopee,11/2/22 0:00,Idham,6281381157573,Tanah Sereal,4,"195,000",Frags & Co.
+INV-000000818,Shopee,11/2/22 0:00,B****U N*******A,6***********7,Sidorejo,3,"145,000",Frags & Co.
+INV-000000819,Shopee,11/2/22 0:00,A*****O R***U,6***********0,Kelapa Dua,3,"195,000",Frags & Co.
+INV-000000820,Shopee,11/2/22 0:00,D***A F****I,6***********2,Kebayoran Baru,1,"145,000",Frags & Co.
+INV-000000821,Shopee,11/2/22 0:00,F****N B******N,6***********6,Enggal,2,"195,000",Frags & Co.
+INV-000000822,Shopee,10/2/22 0:00,R**A I***A L*****A,6**********6,Cileungsi,4,"275,000",Frags & Co.
+INV-000000823,Shopee,10/2/22 0:00,K*******N,6***********7,Penjaringan,1,"365,000",Frags & Co.
+INV-000000899,Shopee,3/2/22 0:00,Pak Gepard,62811602791,Medan Petisah,1,"145,000",Frags & Co.
+INV-000000900,Shopee,10/2/22 0:00,Babah P*******s,62**********0,Pulo Gadung,2,"275,000",Frags & Co.
+INV-000000912,Shopee,3/2/22 0:00,T****y S*****o,62**********6,Sambikerep,1,"145,000",Frags & Co.
+INV-000000941,Shopee,3/2/22 0:00,A*******a,62*********9,Pondok Gede,2,"365,000",Frags & Co.
+INV-000000961,Shopee,2/13/22 0:00,I***S F******H,0**********3,Ciledug,1,"145,000",Frags & Co.
+INV-000000962,Shopee,2/13/22 0:00,Rio,6285356444808,Tambora,3,"325,000",Frags & Co.
+INV-000000963,Shopee,2/13/22 0:00,Arief Dodi Budiman,628112330666,Tebet,3,"195,000",Frags & Co.
+INV-000000964,Shopee,2/13/22 0:00,Johny Juanda,6281311105989,Cinere,4,"275,000",Frags & Co.
+INV-000000965,Shopee,2/13/22 0:00,E****O,6***********8,Wenang,1,"145,000",Frags & Co.
+INV-000000966,Shopee,2/13/22 0:00,F***I E***E,6***********1,Jagakarsa,2,"275,000",Frags & Co.
+INV-000000966,Shopee,2/13/22 0:00,F***I E***E,6***********1,Jagakarsa,3,"145,000",Frags & Co.
+INV-000000967,Shopee,2/13/22 0:00,N**O,6***********6,Jambi Selatan,4,"325,000",Frags & Co.
+INV-000000968,Shopee,2/13/22 0:00,M Farras Vihardi,6281279839199,Ilir Barat I,1,"325,000",Frags & Co.
+INV-000000968,Shopee,2/13/22 0:00,M Farras Vihardi,6281279839199,Ilir Barat I,4,"365,000",Frags & Co.
+INV-000000968,Shopee,2/13/22 0:00,M Farras Vihardi,6281279839199,Ilir Barat I,2,"275,000",Frags & Co.
+INV-000000969,Shopee,2/13/22 0:00,I***N,6***********7,Cisauk,3,"145,000",Frags & Co.
+INV-000000970,Shopee,2/13/22 0:00,D**I R****T R*****A S*,6***********8,Bandar Masilam,4,"325,000",Frags & Co.
+INV-000000971,Shopee,12/2/22 0:00,M*****I,6**********5,Kuta Raja,4,"195,000",Frags & Co.
+INV-000000972,Shopee,12/2/22 0:00,S****N N******N,6***********5,Panyabungan Kota,4,"325,000",Frags & Co.
+INV-000000973,Shopee,12/2/22 0:00,M*****D R**** B* A*U,6***********2,Andir,2,"195,000",Frags & Co.
+INV-000000974,Shopee,2/13/22 0:00,A***I D*I H*******O,6***********5,Pandak,4,"145,000",Frags & Co.
+INV-000000975,Shopee,12/2/22 0:00,Jon Baskoro,6281360122112,Torgamba,2,"325,000",Frags & Co.
+INV-000000976,Shopee,12/2/22 0:00,J*****I,6***********2,Kebon Jeruk,2,"325,000",Frags & Co.
+INV-000000977,Shopee,12/2/22 0:00,T***A,6***********8,Rantau Selatan,2,"145,000",Frags & Co.
+INV-000000978,Shopee,12/2/22 0:00,Bagas Abibikar,6289677500004,Mungkid,3,"325,000",Frags & Co.
+INV-000000979,Shopee,12/2/22 0:00,H*******I,6**********5,Garut Kota,3,"195,000",Frags & Co.
+INV-000000980,Shopee,12/2/22 0:00,Tantan,6287882008480,Balaraja,4,"325,000",Frags & Co.
+INV-000000981,Shopee,12/2/22 0:00,Rizal,6281236766958,Ubud,4,"275,000",Frags & Co.
+INV-000000982,Shopee,12/2/22 0:00,A**Y A******H,6***********5,Sukajadi,3,"365,000",Frags & Co.
+INV-000000983,Shopee,12/2/22 0:00,L***B S****B,6***********0,Kramat Jati,1,"195,000",Frags & Co.
+INV-000000984,Shopee,12/2/22 0:00,Rama,6281282193311,Duren Sawit,3,"275,000",Frags & Co.
+INV-000000985,Shopee,12/2/22 0:00,F***Y L**E,0**********2,Bahodopi,2,"145,000",Frags & Co.
+INV-000000986,Shopee,12/2/22 0:00,Dion,6287875070100,Kelapa Gading,3,"195,000",Frags & Co.
+INV-000000987,Shopee,12/2/22 0:00,M******D F***R,6***********0,Palu Barat,2,"365,000",Frags & Co.
+INV-000000988,Shopee,2/14/22 0:00,I***N R****N,6***********6,Pasar Minggu,4,"365,000",Frags & Co.
+INV-000000989,Shopee,2/14/22 0:00,H****A G*****N,0**********6,Cikole,1,"145,000",Frags & Co.
+INV-000000990,Shopee,2/13/22 0:00,Fahkrurrozi Albarqi,6282283936569,Tampan,4,"145,000",Frags & Co.
+INV-000000991,Shopee,2/14/22 0:00,La Bolo,6281393494217,Koja,2,"195,000",Frags & Co.
+INV-000000992,Shopee,2/13/22 0:00,Reynaldy ,6281240226364,Gununganyar,2,"325,000",Frags & Co.
+INV-000000993,Shopee,2/13/22 0:00,Hasbi M Aziz,6288218118395,Kedawung,2,"145,000",Frags & Co.
+INV-000000994,Shopee,2/14/22 0:00,Hani Merliani,6285641046108,Cileungsi,1,"325,000",Frags & Co.
+INV-000000995,Shopee,2/14/22 0:00,Idewa Ngakan Indra Prasada,6281936041212,Tanjung Pandan,3,"275,000",Frags & Co.
+INV-000000996,Shopee,2/14/22 0:00,Rionaldi,6281279541018,Tanjung Karang Pusat,4,"365,000",Frags & Co.
+INV-000000997,Shopee,2/14/22 0:00,Junn,62895343009444,Pedurungan,3,"365,000",Frags & Co.
+INV-000000998,Shopee,2/13/22 0:00,Ari Pratama Putra,6282133078091,Kembangan,1,"275,000",Frags & Co.
+INV-000000999,Shopee,2/13/22 0:00,Uma Sr Janah,6282154710349,Pontianak Timur,2,"325,000",Frags & Co.
+INV-000001000,Shopee,2/14/22 0:00,A***D N****D,6***********7,Cengkareng,4,"325,000",Frags & Co.
+INV-000001000,Shopee,2/14/22 0:00,A***D N****D,6***********7,Cengkareng,3,"365,000",Frags & Co.
+INV-000001002,Shopee,2/13/22 0:00,Mario  ,6281271703703,Petasia,4,"325,000",Frags & Co.
+INV-000001003,Shopee,2/13/22 0:00,Muhammad Abu Dastan,6282137269477,Pasar Kliwon,3,"275,000",Frags & Co.
+INV-000001003,Shopee,2/13/22 0:00,Muhammad Abu Dastan,6282137269477,Pasar Kliwon,4,"365,000",Frags & Co.
+INV-000001004,Shopee,2/13/22 0:00,Feri Septiawan,6285269838485,Rimbo Tengah,1,"145,000",Frags & Co.
+INV-000001005,Shopee,2/13/22 0:00,Ujebunda Yoman ,6281585714130,Cibodas,1,"275,000",Frags & Co.
+INV-000001006,Shopee,2/13/22 0:00,Samsul Bahri,6285270987007,Nongsa,3,"365,000",Frags & Co.
+INV-000001007,Shopee,2/14/22 0:00,D**I  P*K M*L,6***********4,Bogor Barat,4,"145,000",Frags & Co.
+INV-000001008,Shopee,2/13/22 0:00,M***k  ,62*********9,Cempaka Putih,4,"195,000",Frags & Co.
+INV-000001009,Shopee,2/13/22 0:00,Rama Indra Kesuma,6285218510117,Serpong,3,"325,000",Frags & Co.
+INV-000001010,Shopee,2/13/22 0:00,Rajiv Hamzah,6281214582619,Pangalengan,2,"275,000",Frags & Co.
+INV-000001010,Shopee,2/13/22 0:00,Rajiv Hamzah,6281214582619,Pangalengan,3,"145,000",Frags & Co.
+INV-000001011,Shopee,2/13/22 0:00,Hafiz Mustari,6285274404052,Nanggalo,3,"365,000",Frags & Co.
+INV-000001012,Shopee,2/14/22 0:00,Satriawan Bagas Pradipta,6285712387374,Argomulyo,1,"145,000",Frags & Co.
+INV-000001013,Shopee,2/13/22 0:00,Jana Nurmayanti,6285736758579,Mojo,1,"325,000",Frags & Co.
+INV-000001014,Shopee,2/13/22 0:00,Fachmi Adam,6281287716441,Penjaringan,4,"325,000",Frags & Co.
+INV-000001040,Shopee,3/19/22 0:00,Malik  ,628119856569,Cempaka Putih,3,"195,000",Frags & Co.
+INV-000001322,Shopee,9/2/22 0:00,E**n,62**********4,Wonosari,3,"365,000",Frags & Co.
+INV-000001487,Shopee,4/2/22 0:00,J****n T**i,62*********9,Bekasi Selatan,4,"325,000",Frags & Co.
